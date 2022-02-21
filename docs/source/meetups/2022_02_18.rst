@@ -1,0 +1,22 @@
+Python Belgrade 20.22 LTS [Speedy Steamboat] #28
+================================================
+
+Our main speaker, Milan Suk, comes to us from Brno, Czech Republic, and he is a senior software engineer from kiwi.com_.
+
+    **Topic**: Automatic dependency injection using type annotations
+
+    Do you use type hints in your Python code? Do you apply engineering techniques such as inversion of control to decouple your application? If done properly, type annotations can be used to construct information about dependencies between classes. Inseminator library does exactly that and thus helps to simplify the application entrypoint.
+
+You can watch the lecture in full here:
+
+..  youtube:: rTlztgheLIE
+
+We also had a series of lightning talks by:
+
+* Milan Lesnek: Epic journey of migration to Camunda workflow engine
+* Filip Pozemsky: Plotly
+* Jakub Vereb: Micropython hardware prototyping
+* Carl Ford Jr: Starting a new application/concept build
+* Aleksa Teśić: Notify Me demo
+
+.. _kiwi.com: https://kiwi.com
