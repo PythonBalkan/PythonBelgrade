@@ -17,6 +17,6 @@ We also had a series of lightning talks by:
 * Filip Pozemsky: Plotly
 * Jakub Vereb: Micropython hardware prototyping
 * Carl Ford Jr: Starting a new application/concept build
-* Aleksa Teśić: Notify Me demo
+* Aleksa Tešić: Notify Me demo
 
 .. _kiwi.com: https://kiwi.com
