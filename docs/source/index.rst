@@ -61,3 +61,4 @@ Only reason why you may want to bring a laptop would be if you are planning to g
    :caption: Previous meetups:
 
    meetups/index
+   qr
