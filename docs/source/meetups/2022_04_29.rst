@@ -5,7 +5,7 @@ Our first speaker was Max Polezhaev Senior Software Engineer from kiwi.com_:
 
     **Topic**: Health and monitoring of async Python services
 
-    In our company we’ve got lots of Python services developed using asyncio, which helps us to keep them scalable and maintainable. But with all its benefits the asynchronous approach brings some new challenges. I would like to talk about these challenges and common pitfalls, explain some points requiring attention, such as concurrency control, timeouts, task results, and what metrics can be used to monitor health of async services.
+    In our company we've got lots of Python services developed using asyncio, which helps us to keep them scalable and maintainable. But with all its benefits the asynchronous approach brings some new challenges. I would like to talk about these challenges and common pitfalls, explain some points requiring attention, such as concurrency control, timeouts, task results, and what metrics can be used to monitor health of async services.
 
 Our second speaker was Nikola Pavlicevic:
 
