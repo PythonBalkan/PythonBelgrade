@@ -18,9 +18,9 @@ import sphinx_rtd_theme  # noqa
 
 # -- Project information -----------------------------------------------------
 
-project = 'Python Balkan'
-copyright = '2021, Python Balkan'
-author = 'Python Balkan'
+project = 'Python Belgrade'
+copyright = '2021, Python Belgrade'
+author = 'Python Belgrade'
 
 
 # -- General configuration ---------------------------------------------------
