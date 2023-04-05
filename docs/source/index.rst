@@ -62,3 +62,9 @@ Only reason why you may want to bring a laptop would be if you are planning to g
 
    meetups/index
    qr
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Membership:
+
+   membership/index
