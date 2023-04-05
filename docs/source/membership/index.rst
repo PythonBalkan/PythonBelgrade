@@ -22,3 +22,11 @@ NGO Details
 | Institution: Raiffeisen banka ad Beograd
 | SWIFT: RZBSRSBG
 | IBAN: RS35265100000020580056
+
+
+-----
+
+Payments can be made by scanning the IPS QR code below:
+
+.. image:: ../_static/img/PaymentQRCode.png
+    :alt: Payment QR Code
