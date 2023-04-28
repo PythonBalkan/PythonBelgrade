@@ -15,12 +15,21 @@ PythonBelgrade is a registered NGO "Udruzenje Gradjana" Python Belgrade PIB: 282
 It consists of a community of people that make sure every event is on par to the standards set by previous years, everyone can be an organizer they just need to have some good will and love for the language ❤️.
 
 Applications for members can be sent to our contact google group [info /at/ pythonbelgrade \dot\ com]
-Current `list of members <https://www.meetup.com/PythonBelgrade/members/?op=leaders>`_  who help organize events are:
 
+Members
+**********
+
+`List of members <https://www.meetup.com/PythonBelgrade/members/?op=leaders>`_  who helped organize events are throughout the years:
+
+* Andjela Dojcinovic
+* Snezana Bogdanovic
+* Misha
 * Petar Nikolovski
-* Bojan Jovanovic
 * Luka Licina
+* Irina Nisavic
+* Ana Ostojic
 * Milos Karajovic
+* Bojan Jovanovic
 
 What is the program of the meetup ?
 ************************************
