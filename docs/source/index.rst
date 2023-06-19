@@ -21,6 +21,7 @@ Members
 
 `List of members <https://www.meetup.com/PythonBelgrade/members/?op=leaders>`_  who helped organize events are throughout the years:
 
+* Ruslan Korneev
 * Andjela Dojcinovic
 * Snezana Bogdanovic
 * Misha
