@@ -16,7 +16,7 @@ All the benefits from :ref:`Tier 2 <Tier 2>`, plus the following:
 
 - **Acknowledgment and Gratitude**: Your company will be acknowledged and appreciated by the host at the beginning of each meetup.
 - **Swag Showcase**: You will have the opportunity to showcase your company's swag on a dedicated side table during every meetup.
-- **Speaking Opportunity**: Priority consideration for one of your representatives to deliver a technical and educational talk at 5 out of 10 meetups per year. Please note that talks primarily serving as promotional presentations of the company will not be accepted. However, we allow minor solicitation as long as the main focus of the talk remains dominantly educational in nature.
+- **Speaking Opportunity**: Priority consideration for one of your representatives to deliver a technical and educational talk at 5 out of 10 meetups per year. Please note that we kindly ask that talks avoid being primarily promotional in nature. However, speakers are welcome to provide relevant information about their company, recruitment opportunities, and other related aspects, as long as the educational and technical focus of the talk remains intact.
 
 ----------------
 
