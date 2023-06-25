@@ -14,7 +14,7 @@ Tier 1 - Sponsor: 1400€
 All the benefits from :ref:`Tier 2 <Tier 2>`, plus the following:
 
 * Acknowledgment and gratitude from the host at the beginning of each meetup.
-* Opportunity to showcase your company's swag on a dedicated side table during every meetup.
+* We will distribute your company's swag on a dedicated side table during every meetup.
 * Priority consideration for one of your representatives to give a technical and educational talk at 5 out of 10 meetups per year. We reserve the right to decline a talk if it primarily serves as a promotional presentation. However, we will not interfere with any technical or educational aspects of the talk, allowing the speaker the freedom to share valuable insights.
 
 
