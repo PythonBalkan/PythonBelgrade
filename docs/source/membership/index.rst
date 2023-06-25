@@ -1,12 +1,12 @@
 Membership
-=======
+==========
 
 Welcome to the Python Belgrade membership page!
 
 Membership fee is 2000RSD per year or 20EUR, payments can be made by Wire transfers to the account of the NGO directly.
 
 NGO Details
-----------
+-----------
 
 | Name: Udruzenje gradjana Python Belgrade
 | Maticni broj: 28253567

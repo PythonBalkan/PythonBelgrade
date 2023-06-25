@@ -30,7 +30,12 @@ author = 'Python Belgrade'
 # ones.
 extensions = [
     'sphinx_rtd_theme',
-    'sphinxcontrib.youtube'
+    'sphinxcontrib.youtube',
+    'sphinxcontrib.images',
+]
+
+html_css_files = [
+    'css/custom.css',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

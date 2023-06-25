@@ -75,7 +75,14 @@ Only reason why you may want to bring a laptop would be if you are planning to g
 
 .. toctree::
    :maxdepth: 2
+   :caption: Sponsorship:
+
+   sponsorship/index
+
+.. toctree::
+   :maxdepth: 2
    :caption: Membership:
 
    membership/index
    membership/members
+
