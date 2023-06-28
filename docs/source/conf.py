@@ -46,7 +46,6 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
-
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
@@ -58,3 +57,11 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+
+def setup(app):
+    """Insert Google Analytics tracker
+    Based on this Stackoverflow suggestion: https://stackoverflow.com/a/41885884
+    """
+    app.add_js_file("https://www.googletagmanager.com/gtag/js?id=G-8DRV6SQ7NS")
+    app.add_js_file("js/google_analytics_tracker.js")
