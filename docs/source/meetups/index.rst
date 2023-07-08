@@ -52,7 +52,6 @@ Here you can see the guys who decided to share their experience and knowledge wi
  - `Bojan Matic <https://linkedin.com/in/bojan-mati%C4%87-723920b/>`_
  - `Zeljko Milojevic <https://linkedin.com/in/zeljko-milojevic-ba6a50149/>`_
  - Nikola Pavlicevic
- - Mislav Cimperšak
  - Ivan Mitic
  - Djordje Jovic
  - Bence Nagy
@@ -72,7 +71,6 @@ Here you can see the guys who decided to share their experience and knowledge wi
  - Ranko Trifković
  - Luka Kladarić
  - Slobodan Stević
- - Fill Andretan
  - Krzysztof Zuraw
  - Mike Mac
  - Nenad Jovic
