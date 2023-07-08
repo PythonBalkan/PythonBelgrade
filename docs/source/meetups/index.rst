@@ -31,37 +31,50 @@ Here you can see the guys who decided to share their experience and knowledge wi
  - `Aleksa Terzic <https://linkedin.com/in/aleksa-terzic>`_
  - `Petar Nikolovski <https://linkedin.com/in/petar-nikolovski/>`_
  - `Max Polezhaev <https://linkedin.com/in/max-polezhaev/>`_
- - Nikola Pavlicevic
  - `Alexander Todorov <https://github.com/atodorov>`_
  - `Milan Suk <https://github.com/sukovanej>`_
+ - `Mislav Cimperšak <https://linkedin.com/in/mislavcimpersak/>`_
+ - `Darko Ronić <https://linkedin.com/in/darkoronic/>`_
+ - `Vuksan Simunović <https://linkedin.com/in/vuksan-simunovi%C4%87-bb39286a/>`_
+ - `Thomas Levine <https://github.com/tlevine>`_
+ - `Jakub Vorel <https://linkedin.com/in/jakub-vorel-65813410a/>`_
+ - `Željko Kojić <https://linkedin.com/in/zeljko-kojic-05249490/>`_
+ - `Jožko Škrablin <https://linkedin.com/in/jozko-skrablin-75588757/>`_
+ - `Nebojša Mrkić <https://linkedin.com/in/nebojsa-mrkic-08640437/>`_
+ - `Dejan Mijić <https://linkedin.com/in/mijicd/>`_
+ - `Petr Viktorin <https://linkedin.com/in/petr-viktorin-a5043a14/>`_
+ - `Jozef Kepesi <https://linkedin.com/in/jozefkepesi/>`_
+ - `Bojan Jovanović <https://linkedin.com/in/bojovanovic/>`_
+ - `Milan Stanojević <https://linkedin.com/in/milan-stanojevic/>`_
+ - `Robert van Geel <https://linkedin.com/in/ramvangeel/>`_
+ - `Stefan Vujovic <https://linkedin.com/in/stefanvujovic/>`_
+ - `Milos Milovanovic <https://linkedin.com/in/milovanovicmilos/>`_
+ - `Bojan Matic <https://linkedin.com/in/bojan-mati%C4%87-723920b/>`_
+ - `Zeljko Milojevic <https://linkedin.com/in/zeljko-milojevic-ba6a50149/>`_
+ - Nikola Pavlicevic
  - Mislav Cimperšak
- - Jakub Vorel
- - Dejan Mijić
- - Milan Stanojević
  - Ivan Mitic
  - Djordje Jovic
  - Bence Nagy
  - Alen Suljkanovc
  - Radoslav Georgiev
+ - Alex Viscreanu
+ - Tin Marković
+ - Uroš Pajić
  - Neven Munđar
  - Nemanja Mićović
+ - Milos Popović
+ - Valentina Đorđević
  - Martin Angelov
  - Mahmoud Zalt
  - Adam Culp
  - Viktor Kerkez
  - Ranko Trifković
  - Luka Kladarić
- - Jozef Kepesi
  - Slobodan Stević
- - Mister Mislav
- - Petr Viktorin
- - Mister Darko
  - Fill Andretan
  - Krzysztof Zuraw
- - Mister Vuksan
- - Thomas Levine
- - Željko
- - Slovenia Jožko
- - Nebojša Mrkić
+ - Mike Mac
+ - Nenad Jovic
  - Amir Ebrahimi
  - Ante Aljinovic
