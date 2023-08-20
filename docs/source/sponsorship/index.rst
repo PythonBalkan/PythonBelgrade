@@ -34,7 +34,7 @@ Tier 2 - Supporter: 500€
        :width: 300px
     Sponsorship Benefits:
 
-    - **Sponsorship Banner**: Your company logo will be prominently displayed on our rollup, which will be showcased at every meetup for an entire year.
+    - **Sponsorship Banner**: Your company's logo will be prominently featured on our rollup, which will be prominently displayed at every meetup throughout the entire year. In addition, your sponsored swag will be distributed to attendees during these meetups, allowing your brand to reach a wide and engaged audience.
     - **Website Recognition**: Your company name and logo will be permanently featured on our website.
     - **Complimentary Merchandise**: Receive Python Belgrade Meetup merchandise, including exclusive t-shirts and other swag items, to showcase your support and affiliation with the community.
 
