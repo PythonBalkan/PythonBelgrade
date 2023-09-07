@@ -910,8 +910,322 @@
         ],
         "abstract": "This lecture will explain how to design and implement a simple persistent cloud-based internet of things platform in less than 100 lines of Python code.",
         "references": []
+      },
+      {
+        "title": "Nix for Python developers",
+        "speakers": [
+          21
+        ],
+        "abstract": "This lecture will be presenting the Nix basics with emphasis on using Nix in Python development. Key focus of the talk will be using Nix to provide reliable and reproducible Python development environments on Linux and MacOS operating systems.",
+        "references": []
+      },
+      {
+        "title": "Python's parser and execution model: the token stream, AST, bytecode, .pyc files, object files and execution frames",
+        "speakers": [
+          24
+        ],
+        "abstract": "",
+        "references": []
       }
     ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 8,
+    "title": "Python: Bigger, Better, and Distributed",
+    "location": {
+      "name": "Kortechs",
+      "url": "https://maps.app.goo.gl/r82BocbNXcM16wEo8"
+    },
+    "start": "2017-02-24 18:00",
+    "talks": [
+      {
+        "title": "big data in cloud with Hive & Presto",
+        "speakers": [
+          25
+        ],
+        "abstract": "",
+        "references": []
+      },
+      {
+        "title": "challenges of distributed systems",
+        "speakers": [
+          26
+        ],
+        "abstract": "",
+        "references": []
+      },
+      {
+        "title": "",
+        "speakers": [
+          27
+        ],
+        "abstract": "",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 7,
+    "title": "Python Belgrade Closed Edition #2",
+    "location": {
+      "name": "Kortechs | Svetozara Markovica 8",
+      "url": "https://maps.app.goo.gl/fFRbjqeckHEAyLqk8"
+    },
+    "start": "2016-10-21 19:00",
+    "talks": [
+      {
+        "title": "Data Analysis with Pandas",
+        "speakers": [
+          54
+        ],
+        "abstract": "",
+        "references": []
+      },
+      {
+        "title": "Grab Krstarica",
+        "speakers": [
+          55
+        ],
+        "abstract": "",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 6,
+    "title": "Python Belgrade Closed Edition #1",
+    "location": {
+      "name": "Kortechs | Svetozara Markovica 8",
+      "url": "https://maps.app.goo.gl/fFRbjqeckHEAyLqk8"
+    },
+    "start": "2016-10-07 19:00",
+    "talks": [
+      {
+        "title": "20minutes of functional programming in Python",
+        "speakers": [
+          32
+        ],
+        "abstract": "",
+        "references": []
+      },
+      {
+        "title": "Python/Django/Channels/Websockets creating a realtime webapplication in minutes",
+        "speakers": [
+          26
+        ],
+        "abstract": "",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 5,
+    "title": "Python Belgrade #5",
+    "location": {
+      "name": "ICT Hub Kralja Milana",
+      "url": "https://goo.gl/maps/SYQxBMwCuF6duGkT8"
+    },
+    "start": "2016-06-10 19:00",
+    "talks": [
+      {
+        "title": "Why i develop Python on windows + IIS",
+        "speakers": [
+          28
+        ],
+        "abstract": "",
+        "references": []
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=f21ax99tAak",
+    "lightning_talks": []
+  },
+  {
+    "id": 4,
+    "title": "Python Belgrade #4",
+    "location": {
+      "name": "Startit Centar Beograd",
+      "url": "https://maps.app.goo.gl/omb6dD3b1hewEdrx8"
+    },
+    "start": "2016-05-06 19:00",
+    "talks": [
+      {
+        "title": "PostgreSQL",
+        "speakers": [
+          25
+        ],
+        "abstract": "Jozef will headline the talks by giving us some insight on a database some of us have considered as a just plain old relational database of choice. Not only is it a swiss army knife database but it can do so much more than just keep track of our relational data.",
+        "references": []
+      },
+      {
+        "title": "Websockets in Python",
+        "speakers": [
+          61
+        ],
+        "abstract": "For a while now python has been crippled for a good implementation of websockets, we saw tons of custom solutions from implementations on the network framework Twisted to some custom gevent solutions.Jiří will give us an introduction on how Skypicker solves this issue by using a modern stack of Python 3 + Tornado + AsyncIO and cover some of the general pitfalls as well as best practices.",
+        "references": []
+      },
+      {
+        "title": "BigML",
+        "speakers": [
+          62
+        ],
+        "abstract": "BigML makes machine learning easy by taking care of the details required to add data-driven decisions and predictive power to your company. Ondrej will give us a crash course on how to get us quickly up and running with this cloud machine learning platform.",
+        "references": [
+          {
+            "title": "BigML",
+            "url": "bigml.com"
+          }
+        ]
+      },
+      {
+        "title": "Python OCR",
+        "speakers": [
+          63
+        ],
+        "abstract": "Tomas will give us an insight into a python solution that encompasses scanning of receipts and storing them away into Database for a handy way of pipelining it for further analytics software.",
+        "references": []
+      },
+      {
+        "title": "Python X Golang: when to switch to the dark side",
+        "speakers": [
+          64
+        ],
+        "abstract": "Go is getting a lot of attention in the world of Python. When starting a project or improving (not only) Python codebase, it's good time to consider switching to Go. We will go over the tooling, libraries and language features to try and figure out when leaving Python behind could lead to happier developers and better code.",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 3,
+    "title": "Python Belgrade Meetup - Lightning Talks ( Big Data ) #3",
+    "location": {
+      "name": "Startit Centar Beograd",
+      "url": "https://maps.app.goo.gl/omb6dD3b1hewEdrx8"
+    },
+    "start": "2016-03-25 18:00",
+    "talks": [
+      {
+        "title": "Kratka uvodna prica o iPythonu",
+        "speakers": [
+          65
+        ],
+        "abstract": "U periodu od 15 minuta, Stefan ce pokrenuti Jupyter Notebook-a i, kroz poredjenje obicnog Python interaktivnog shell-a sa Jupyter-ovim, pokusace da nagovesti prednosti i mane ove web aplikacije.",
+        "references": [
+          {
+            "title": "JuPyter",
+            "url": "http://jupyter.org/"
+          }
+        ]
+      },
+      {
+        "title": "Spark Python API",
+        "speakers": [
+          30
+        ],
+        "abstract": "PySpark nudi Python-u pristup Spark-ovom programming modelu, i pomaze da se na brz i efikasan nacin isprocesuiraju velike kolicine podataka.\n\nMilos ce nam za kratak vremenski period pruziti uvid u jedan od najpopularnijih data alata i data tehnologija prosle godine. Procice kroz neke od core API funkcionalnosti i iznece pozitivne i negativne strane koriscenja PySpark aplikacije za resavanje problema skladistenja masivnih kolicina podataka.",
+        "references": [
+          {
+            "title": "Spark",
+            "url": "https://spark.apache.org/"
+          }
+        ]
+      },
+      {
+        "title": "Manipulacija podataka sa Pandas bibliotekom",
+        "speakers": [
+          6
+        ],
+        "abstract": "Zarko ce u periodu od 15 minuta probati da nam kroz live coding sesiju na konkretnom data setu prikaže kako može izgledati analiza podataka pomoću Pandas biblioteke.\n\nBiće demonstriran delić mogućnosti biblioteke kako bi vam zagolicali mastu i skrenuli paznju na velike mogucnosti Python-a za manipulaciju raznih tipova datasetova.",
+        "references": [
+          {
+            "title": "Pandas",
+            "url": "https://pandas.pydata.org/"
+          }
+        ]
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 2,
+    "title": "Lightning Python Belgrade #2",
+    "location": {
+      "name": "Startit Centar Beograd",
+      "url": "https://maps.app.goo.gl/omb6dD3b1hewEdrx8"
+    },
+    "start": "2016-02-26 18:30",
+    "talks": [
+      {
+        "title": "asyncio ",
+        "speakers": [
+          27
+        ],
+        "abstract": "Milan will talk about the shiny new asynchronous event loop module, introduced in Python 3.4, set to tackle various implementations and bring them all under one roof and into the standard library.",
+        "references": [
+          {
+            "title": "asyncio",
+            "url": "https://docs.python.org/3/library/asyncio.html"
+          }
+        ]
+      },
+      {
+        "title": "Convert your Python script into executable Windows programs, able to run without requiring a Python installation.",
+        "speakers": [
+          20
+        ],
+        "abstract": "Zeljko will be giving a hands-on presentation of how you can package, deploy and execute your Python scripts all nicely packed-up in a Windows-executable binary file. He will also offer us some pros and cons as to when and why we should use this little handy toolkit.",
+        "references": [
+          {
+            "title": "py2exe",
+            "url": "http://www.py2exe.org/"
+          }
+        ]
+      },
+      {
+        "title": "A Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.",
+        "speakers": [
+          31
+        ],
+        "abstract": "Bojan will provide us with insights into how to wrap up your applications to use Python’s popular ORM library to release some tension and not worry about databases and complex queries.",
+        "references": [
+          {
+            "title": "SQLAlchemy",
+            "url": "http://www.sqlalchemy.org/"
+          }
+        ]
+      },
+      {
+        "title": "How I made a programming language in Serbian/Cyrilic in three days",
+        "speakers": [
+          32
+        ],
+        "abstract": "Zeljko will tutor us on how he built Python 3.4.3 from source and changed the interpreter grammar to listen to a different language ( namely Serbian/Cyrilic ).\n\nThe presentation will display the power of the Python interpreter and its flexibility; its potential use is to teach young people the basics of programming in a modern object-oriented language in countries where English language is not as prevalent.",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 1,
+    "title": "Talk dirty in python to each other",
+    "location": {
+      "name": "Startit Centar Beograd",
+      "url": "https://maps.app.goo.gl/omb6dD3b1hewEdrx8"
+    },
+    "start": "2016-01-22 18:30",
+    "talks": [],
     "youtube": null,
     "lightning_talks": []
   }
