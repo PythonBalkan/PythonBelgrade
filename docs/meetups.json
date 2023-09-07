@@ -375,6 +375,7 @@
         "references": []
       }
     ],
+    "youtube": "https://www.youtube.com/watch?v=rTlztgheLIE",
     "lightning_talks": [
       {
         "speaker": "Milan Lesnek",
@@ -396,9 +397,7 @@
         "speaker": "Aleksa Tešić",
         "title": "Notify Me demo"
       }
-    ],
-    "youtube": "https://www.youtube.com/watch?v=rTlztgheLIE",
-    "lightning_talks": []
+    ]
   },
   {
     "id": 28,
