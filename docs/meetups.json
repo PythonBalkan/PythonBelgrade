@@ -1,0 +1,918 @@
+[
+  {
+    "id": 45,
+    "title": "Python Belgrade #44 :: The Rust to Python App event",
+    "location": {
+      "name": "Koska Bar @ Dorcol platz",
+      "url": "https://goo.gl/maps/XMKztPThnz8yHTdC7"
+    },
+    "start": "2023-08-25 18:00",
+    "talks": [
+      {
+        "title": "FFI Integration of Rust Code to Python App",
+        "speakers": [
+          58
+        ],
+        "abstract": "This talk demonstrates the integration of Rust code into a Python application using Foreign Function Interface (FFI) techniques. It showcases how to utilize Rust's performance and safety benefits within a Python project, allowing developers to implement critical components in Rust while managing the rest of the application in Python. Will cover popular frameworks integrations",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 44,
+    "title": "Python Belgrade #43 :: Beers",
+    "location": {
+      "name": "Koska Bar @ Dorcol platz",
+      "url": "https://goo.gl/maps/XMKztPThnz8yHTdC7"
+    },
+    "start": "2023-07-28 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 43,
+    "title": "Python Belgrade #42 :: The Django DDD Event",
+    "location": {
+      "name": "Koska Bar @ Dorcol platz",
+      "url": "https://goo.gl/maps/XMKztPThnz8yHTdC7"
+    },
+    "start": "2023-06-30 18:00",
+    "talks": [
+      {
+        "title": "Decoding DDD: A Three-Tiered Approach to Django Projects",
+        "speakers": [
+          1
+        ],
+        "abstract": "Every project has its unique history and limitations. In this session, I will navigate you through three levels of implementing DDD in Django, from basic to advanced. You will understand how to apply DDD to your Django project strategically and tactically and learn how to balance the costs and benefits of each level.\n\nLevel 0: Ubiquitous Language and Bounded Contexts\n\nWe'll begin with an easy-to-implement approach, focusing on strategic DDD patterns. Then, we'll delve into creating Ubiquitous Language and discovering Bounded Contexts through Event Storming sessions - an engaging technique to visualize and define domains collaboratively.\n\nLevel 1: DDD tactical patterns\n\nWe'll move on to tactical patterns like entity, aggregate, repository, and domain services. Here, you'll understand how the standard usage of Django models may lead to a lack of integrity and how DDD patterns can provide business-level integrity.\n\nLevel 2: Advanced DDD\n\nFinally, we'll explore advanced DDD techniques. We'll cover how to design a domain layer in pure Python independent of the framework and why this approach can lead to cleaner, more testable code.\n\nTakeaways\n\nBy the end of this talk, you will have:\n\nA clear understanding of implementing DDD in Django projects at different levels based on your requirements.\n\nA solid grasp of the strategic and tactical patterns in DDD and how they can improve your Django project.\n\nHands-on experience in creating Ubiquitous Language and discovering Bounded Contexts through Event Storming sessions.\n\nKnowledge of how to ensure business-level integrity in your project using DDD tactical patterns.\n\nInsights on how to write a domain layer in pure Python, independent of the framework, and how it can lead to cleaner, more testable code.\n\nEngagement\n\nIn this session, I will focus on linking theory with practical examples. Drawing from my experience refactoring a 5-year-old Django monolith, which continues to be actively developed by five different teams, I have many real-world examples to illustrate different approaches.",
+        "references": []
+      },
+      {
+        "title": "Thoughts on DDD in Django Projects",
+        "speakers": [
+          12
+        ],
+        "abstract": "Max Polezhaev will share insights on combining Django and DDD in this complementary talk. Drawing from personal experiences, Max will discuss the challenges, limitations, and unique characteristics of Django that impact DDD implementation.\n\nThe talk will discuss concrete problems and conclusions on Django's efficient usage and alternative solutions. Max will compare Django with other frameworks in DDD implementation and share real-world experiences from a Kiwi.com team.\n\nTakeaways: Attendees of this talk can expect to:\n\nUnderstand challenges and limitations of applying DDD in Django projects.\n\nLearn about specific characteristics of Django impacting DDD implementation.\n\nDiscover effective utilization of Django in various project types and areas.\n\nGain insights into alternative frameworks for DDD implementation.\n\nUnderstand real-world experiences of adopting DDD in a Django project at Kiwi.com.",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 42,
+    "title": "Python Belgrade #41",
+    "location": {
+      "name": "Koska Bar @ Dorcol platz",
+      "url": "https://goo.gl/maps/XMKztPThnz8yHTdC7"
+    },
+    "start": "2023-05-26 18:00",
+    "talks": [
+      {
+        "title": "Teach yourself to Think [with the TO-LO-PO-SO-GO framework]",
+        "speakers": [
+          13
+        ],
+        "abstract": "The presentation will go through the 5 stages of the TO-LO-PO-SO-GO thinking framework. It will be an interactive session where the audience will have to \"build\" a space rocket which lands back on Earth.",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 41,
+    "title": "Python Belgrade #40",
+    "location": {
+      "name": "Koska Bar @ Dorcol platz",
+      "url": "https://goo.gl/maps/XMKztPThnz8yHTdC7"
+    },
+    "start": "2023-04-28 18:00",
+    "talks": [
+      {
+        "title": "Dark side of OOP",
+        "speakers": [
+          2,
+          3
+        ],
+        "abstract": "Lots of modern projects are using object oriented paradigm as if it is the only one. But is it really non-avoidable or more convenient for most tasks?\n\nIn this talk we would like to point out problems of object oriented paradigm.\n\nWe would like to go through several use-cases and see if there are cases when oop solution is not optimal or even not possible.",
+        "references": []
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=lozMxwLF54E",
+    "lightning_talks": []
+  },
+  {
+    "id": 40,
+    "title": "Python Belgrade #39 :: Mastering AI Integration",
+    "location": {
+      "name": "Nova Iskra Workspace Dorcol. Cara Uroša 18 Beograd",
+      "url": "https://goo.gl/maps/bZRYrZcVaNN5nC6v9"
+    },
+    "start": "2023-03-31 18:00",
+    "talks": [
+      {
+        "title": "Mastering AI Integration & Innovation :: Unlocking Enterprise Success",
+        "speakers": [
+          4
+        ],
+        "abstract": "Business growth today depends not just on adopting new software tools, but on integrating them with data and AI technologies -mostly Open Source Software. By embedding your organization's expertise in AI models, you can not only persist and scale knowledge to maintain a competitive advantage but also free creative resources for new business models. Instead of being swayed by the noise on eg. LinkedIn and other people's ideas and successes, focus on building your own data & AI solutions.\n\nIn this discussion, I will present five key insights, demonstrated through use cases:\n\n1. AI Implementation: Moving beyond a high-level understanding of AI, we'll explore guidelines and best practices for identifying the right starting point for AI adoption in your business.\n\n2. From Prototypes to Production: Although open source and boilerplate code make prototyping easier, we'll examine various use cases to understand how to transition from prototypes to production, and other options to consider.\n\n3. Navigating the Journey: Learn best practices for dealing with your business's legacy systems and determine when migrating to Open Source is a viable plan.\n\n4. Driving Impact at Scale: Innovation encompasses various elements, including cloud, open source software, software engineering, and corporate culture. We'll discuss architectural best practices for managing multiple components simultaneously.\n\n5. Overcoming Inexperience: If you have the necessary resources but lack experience, discover how to identify missing elements and accelerate progress in your digital transformation journey.\n\nEach of these insights will be supported by real-life use cases, demonstrating the challenges and solutions involved in maximizing AI's value for your business and maintaining a competitive edge. Furthermore, integrating AI effectively can also enhance company culture and contribute to happier, more engaged employees, creating additional value for your organization.",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 39,
+    "title": "Python Belgrade #38 :: Beers",
+    "location": {
+      "name": "Das Boot Jazz&Beer Bar",
+      "url": "https://goo.gl/maps/TmaSmQo2NKS3SwTz5"
+    },
+    "start": "2022-12-30 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 38,
+    "title": "Python Belgrade #37",
+    "location": {
+      "name": "ICT Hub Kralja Milana",
+      "url": "https://goo.gl/maps/SYQxBMwCuF6duGkT8"
+    },
+    "start": "2022-11-25 18:00",
+    "talks": [
+      {
+        "title": "Using Cython and Rust to Speed up Python Scripts",
+        "speakers": [
+          6
+        ],
+        "abstract": "Zarko will do a hands on coding presentation where he will start off with a simple Python CPU intensive function. Then write that function in Cython and Rust, call them from the Python script and compare performances.\n\nThis presentation would be an entry-level intro to using Cython and Rust in Python projects.",
+        "references": []
+      },
+      {
+        "title": "FARM Stack - How to create highly performant, asynchronous, modern, web applications in Python using the hot new FastAPI framework, with MongoDB as the database layer and the power and simplicity of React",
+        "speakers": [
+          5
+        ],
+        "abstract": "The FARM (FastAPI, Python, React, Mongo) stack is a relatively low-level and highly flexible toolset that enables developers, analysts, and data wranglers, in general, to start very small and scale up if needed, ending up with either a small internal tool or a full-fledged web application.\n\nCombined together, these technologies blend very well, and though they bear a funny acronym (the FARM stack), they allow for a pleasant and fast developer experience, offer speed and flexibility, and most importantly, the opportunity to peruse the wide Python ecosystem, which is suitable for the most diverse problems – from data science and machine learning to analytics and image processing, task automation, and more. The use of HTTP and JSON as the transport mechanism enables the developers to integrate numerous functionalities from the Python (Pandas and Numpy, for example) or the JavaScript side (like data visualizations with D3.js or other libraries, maps with Leaflet and so on).",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 37,
+    "title": "Python Belgrade #36 :: Beers",
+    "location": {
+      "name": "Das Boot Jazz&Beer Bar",
+      "url": "https://goo.gl/maps/TmaSmQo2NKS3SwTz5"
+    },
+    "start": "2022-10-28 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 36,
+    "title": "Python Belgrade #35",
+    "location": {
+      "name": "ICT Hub Kralja Milana",
+      "url": "https://goo.gl/maps/SYQxBMwCuF6duGkT8"
+    },
+    "start": "2022-09-30 18:00",
+    "talks": [
+      {
+        "title": "Monitoring app performance. Opentelemetry & Jaeger",
+        "speakers": [
+          7
+        ],
+        "abstract": "In this talk I will introduce tools for tracing application performance in the microservice architecture. Opentelemetry is standard for such tracing and Jaeger is an application, responsible for collecting data and its visualization.",
+        "references": []
+      },
+      {
+        "title": "Introducing Repid - new library for asyncio tasks processing",
+        "speakers": [
+          8
+        ],
+        "abstract": "This talk is dedicated to squeezing the most performance out of queue consumers while keeping your app’s code simple and clean. We will have a short live-coding",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 35,
+    "title": "Python Belgrade #34",
+    "location": {
+      "name": "UK Stari Grad",
+      "url": "https://goo.gl/maps/efU19kvACXS7XmdEA"
+    },
+    "start": "2022-08-26 18:00",
+    "talks": [
+      {
+        "title": "Maintaining peace by preparing for war",
+        "speakers": [
+          9
+        ],
+        "abstract": "How to choose the right framework? How about a library? What must a developer take into consideration when choosing tools (frameworks, libraries, modules, …) to be used in a project? These are important questions that each developer must answer during the development process.\nMistakenly, developers think that these questions are part of the project owner’s or software architect’s job. But they are the ones who will develop and maintain the project and it is important to take these questions into consideration despite the fact that you may not be the one making the decisions. Even if your choices are made for you, by taking time to prepare, you will be able to better predict the problems that may arise during the project’s lifetime.\nI will convey my experience and best practices I acquired during 10 years of software development using various Python web frameworks and libraries. The talk will provide important checks to consider before the start of a project, as well as remind developers of the need for constant education and change tracking. Also, it will stress the importance that planning and preparation have in facilitating code change and project growth.",
+        "references": []
+      },
+      {
+        "title": "Performance testing of Python services",
+        "speakers": [
+          12
+        ],
+        "abstract": "Many teams at some point of the project development lifecycle realize a need for performance tests for their backend services. The idea of having automated reproducible tests that would help to find the performance limit, identify bottlenecks and detect performance regression on changes seems really attractive. But setting up and maintaining such tests can be tricky and require a lot of effort.\n\nI’m Max, Senior Software Engineer from Kiwi.com, and I will share with you our experience with performance testing of a complex backend service, will tell you what questions should be asked before starting with it, and will cover some main steps of the process, like choosing testing tools, preparing test data, setting up test environment, what to do with external services and how to interpret the test results.",
+        "references": []
+      }
+    ],
+    "lightning_talks": [
+      {
+        "title": "Preduzetnik community",
+        "speaker": "Anton"
+      },
+      {
+        "title": "Ponderings on Cal Newport Digital Minimalism book",
+        "speaker": "Zoran"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=iWWoqDxVQo8"
+  },
+  {
+    "id": 34,
+    "title": "Python Belgrade #33",
+    "location": {
+      "name": "Das Boot Jazz&Beer Bar",
+      "url": "https://goo.gl/maps/TmaSmQo2NKS3SwTz5"
+    },
+    "start": "2022-07-29 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 33,
+    "title": "Python Belgrade #32",
+    "location": {
+      "name": "Das Boot Jazz&Beer Bar",
+      "url": "https://goo.gl/maps/TmaSmQo2NKS3SwTz5"
+    },
+    "start": "2022-06-24 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 32,
+    "title": "Python Belgrade #31",
+    "location": {
+      "name": "UK Stari Grad",
+      "url": "https://goo.gl/maps/efU19kvACXS7XmdEA"
+    },
+    "start": "2022-05-27 18:00",
+    "talks": [
+      {
+        "title": "Python Microservices with gRPC",
+        "speakers": [
+          10
+        ],
+        "abstract": "Purpose for this study is to introduce the concept behind microservices, differences between microservices and monolithic applications, benefits and pitfalls of each and scaling. Inspiration for this came from the issues that I have encountered while working with large monolithic applications, mainly regarding scaling and speed of the service. Having all of the code in one place in early stages of development is better, lets you develop faster which is critical when starting, is less complicated to share between developers and allows for easier deployment in one go. But, as the codebase and complexity of the app grows, all of these pros that made it easier in the beginning, can gradually make a monolith harder to develop and maintain. Implementing microservices can be time consuming, but will allow for better scaling in the long run if applied at the right time - not too soon, not too late. Why microservices? Flexibility, scalability and robustness are main pros of implementing microservices. It will make a way to organize complex systems, breaking them down into smaller pieces that communicate with each other and deployed independently. They can also be written in different languages, giving the app even more flexibility. Why gRPC over REST? Well, we can use REST for microservices as well, but there are many pros in using protocol buffers. Performance, documentation and validation are the main ones. gRPC is built on top of HTTP/2 which can make multiple requests in parallel and is more efficient in this case, when using it for internal communication. Also, gRPC has interceptors that are used to monitor the communication between services, logging exceptions, requests and latencies. Generally, a go-to for our case and we will cover it in depth.",
+        "references": []
+      },
+      {
+        "title": "A step towards the fully automated Kubernetes infrastructure with Python",
+        "speakers": [
+          11
+        ],
+        "abstract": "In this talk, we'll walk down the rabbit hole of Kubernetes most mysterious components: Controllers, and Operators. We'll do a deep dive into the subject, and by the end of it, you will be either utterly amazed or utterly confused (as is the case with any Kubernetes topic).",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 31,
+    "title": "Python Belgrade #30",
+    "location": {
+      "name": "UK Stari Grad",
+      "url": "https://goo.gl/maps/efU19kvACXS7XmdEA"
+    },
+    "start": "2022-04-29 18:00",
+    "talks": [
+      {
+        "title": "Health and monitoring of async Python services",
+        "speakers": [
+          12
+        ],
+        "abstract": "Hi, I’m Max, Senior Software Engineer from the FinTech Tribe at Kiwi.com.\n\nIn our company we’ve got lots of Python services developed using asyncio, which helps us to keep them scalable and maintainable. But with all its benefits the asynchronous approach brings some new challenges. I would like to talk about these challenges and common pitfalls, explain some points requiring attention, such as concurrency control, timeouts, task results, and what metrics can be used to monitor health of async services.",
+        "references": []
+      },
+      {
+        "title": "Implementation of SPIMI algorithm",
+        "speakers": [
+          33
+        ],
+        "abstract": "SPIMI is one of the methods to index and search a file system. It is especially useful for constrained devices e.g. single board computers and IOT.",
+        "references": []
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=g2iNMlkmK6w",
+    "lightning_talks": []
+  },
+  {
+    "id": 30,
+    "title": "Python Belgrade #29",
+    "location": {
+      "name": "UK Stari Grad",
+      "url": "https://goo.gl/maps/efU19kvACXS7XmdEA"
+    },
+    "start": "2022-03-25 18:00",
+    "talks": [
+      {
+        "title": "Black-box testing with Kiwi TCMS",
+        "speakers": [
+          13
+        ],
+        "abstract": "- Quick intro of the Kiwi TCMS open source project\n- Quick info about the black box hardware\n- Share with the audience why these black boxes exist and what kinds of biases they serve to demonstrate.\n\nThe talk will be mostly be around hardware Kiwi TCMS boxes, Alexander will be bringing a couple of them so that the attendees will be able to play around with them throughout the event.",
+        "references": [
+          {
+            "link": "https://github.com/kiwitcms/black-boxes",
+            "title": "Hardware for teaching exploratory testing"
+          },
+          {
+            "link": "https://kiwitcms.org/blog/kiwi-tcms-team/2020/10/10/progress-update-on-open-source-hardware-for-black-box-testing/",
+            "title": "Progress update on open source hardware for black-box testing in cooperation with Pionir"
+          }
+        ]
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 29,
+    "title": "Python Belgrade 20.22 LTS [Speedy Steamboat] #28",
+    "location": {
+      "name": "UK Stari Grad",
+      "url": "https://goo.gl/maps/efU19kvACXS7XmdEA"
+    },
+    "start": "2022-02-18 18:00",
+    "talks": [
+      {
+        "title": "Automatic dependency injection using type annotations",
+        "speakers": [
+          14
+        ],
+        "abstract": "Do you use type hints in your Python code? Do you apply engineering techniques such as inversion of control to decouple your application? If done properly, type annotations can be used to construct information about dependencies between classes. Inseminator library does exactly that and thus helps to simplify the application entrypoint.",
+        "references": []
+      }
+    ],
+    "lightning_talks": [
+      {
+        "speaker": "Milan Lesnek",
+        "title": "Epic journey of migration to Camunda workflow engine"
+      },
+      {
+        "speaker": "Filip Pozemsky",
+        "title": "Plotly"
+      },
+      {
+        "speaker": "Jakub Vereb",
+        "title": "Micropython hardware prototyping"
+      },
+      {
+        "speaker": "Carl Ford Jr",
+        "title": "Starting a new application/concept build"
+      },
+      {
+        "speaker": "Aleksa Tešić",
+        "title": "Notify Me demo"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=rTlztgheLIE",
+    "lightning_talks": []
+  },
+  {
+    "id": 28,
+    "title": "Python Belgrade Meetup [[Thursday] Monthly community event] #27",
+    "location": {
+      "name": "Das Boot Jazz&Beer Bar",
+      "url": "https://goo.gl/maps/TmaSmQo2NKS3SwTz5"
+    },
+    "start": "2021-12-23 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 27,
+    "title": "Python Belgrade Meetup [Beer & Discussion] #26",
+    "location": {
+      "name": "Das Boot Jazz&Beer Bar",
+      "url": "https://goo.gl/maps/TmaSmQo2NKS3SwTz5"
+    },
+    "start": "2021-11-26 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 26,
+    "title": "Python Belgrade Meetup [Growing Community and Drinking Beer] #25",
+    "location": {
+      "name": "Das Boot Jazz&Beer Bar",
+      "url": "https://goo.gl/maps/TmaSmQo2NKS3SwTz5"
+    },
+    "start": "2021-10-29 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 25,
+    "title": "Python Belgrade [Resurrection] #24 @ICTHUB",
+    "location": {
+      "name": "ICT Hub Kralja Milana",
+      "url": "https://goo.gl/maps/SYQxBMwCuF6duGkT8"
+    },
+    "start": "2021-09-24 18:00",
+    "talks": [
+      {
+        "title": "Observe production, without the SSH",
+        "speakers": [
+          59
+        ],
+        "abstract": "So your code is in production, now what? Do you know, if your application is up? Do you knew if something goes wrong? When it does, how will you debug it?\n\nLet's talk observability, the latest buzzword, what it means, and how to get started!",
+        "references": []
+      },
+      {
+        "title": "Narrenschiff: More than a satire, a tool!",
+        "speakers": [
+          11, 60
+        ],
+        "abstract": "Do you need to encrypt Kubernetes secrets and safely commit manifests and custom Helm charts? Do you need to rebuild a cluster, or to have another copy of an existing namespace - but you don't remember how you did it in the first place? Narrenschiff is a Kubernetes configuration management tool for small business.\n\nIt's also a story of a DevOps engineer's frustration with tool fatigue - and then taking it a step further.",
+        "references": [
+          {
+            "title": "NarrenOrg",
+            "link": "https://github.com/narrenorg"
+          },
+          {
+            "title": "Narrenschiff",
+            "link": "https://narrenschiff.xyz"
+          }
+        ]
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 24,
+    "title": "Python Belgrade #23",
+    "location": {
+      "name": "ICT Hub Kralja Milana",
+      "url": "https://goo.gl/maps/SYQxBMwCuF6duGkT8"
+    },
+    "start": "2019-05-31 18:00",
+    "talks": [
+      {
+        "title": "RabbitMQ federation between datacenters",
+        "speakers": [
+          34
+        ],
+        "abstract": "What is AMQP, what it does and what can it help me with? We will use RabbitMQ as it's most successful implementation to bring AMQP closer to you. From elementary artefacts such as Exchange and Queue, all the way to Federation as one of the most advanced plugins. In this 15 minutes talk, we will use an abstract view to our own SMS platform as an example of these concepts in real World action.",
+        "references": []
+      },
+      {
+        "title": "Procedural generation in Python",
+        "speakers": [
+          35
+        ],
+        "abstract": "A short introduction to the basics of procedural generation, followed by a demonstration of how to generate terrain using noise functions and how to generate fractal art in python.",
+        "references": [
+          {
+            "title": "WorldEngine - a world generator",
+            "link": "https://github.com/Mindwerks/worldengine"
+          }
+        ]
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=PO-G68AtPOM",
+    "lightning_talks": []
+  },
+  {
+    "id": 23,
+    "title": "Python Belgrade #22",
+    "location": {
+      "name": "ICT Hub Kralja Milana",
+      "url": "https://goo.gl/maps/SYQxBMwCuF6duGkT8"
+    },
+    "start": "2019-03-29 18:00",
+    "talks": [
+      {
+        "title": "Chaos Engineering:Kill Your Own Servers for the Greater Good",
+        "speakers": [
+          36
+        ],
+        "abstract": "On the cutting edge of technology, engineers have this new mania about this so-called \"Chaos Engineering\" — which is essentially ops people willfully breaking their own infrastructure. Crazy, right? Why would anyone do this? Just to show off? To fight off boredom? Is it just some manifestation of masochist tendencies? Well, it's actually none of the above, so I'll try to explain the whys and hows of this fascinating concept in my talk.",
+        "references": []
+      },
+      {
+        "title": "Using Python for source-to-source translations",
+        "speakers": [
+          37
+        ],
+        "abstract": "Source-to-source translation is a process of taking a program written in one programming language as an input, and producing the equivalent source code in another programming language. First, we will give a short introduction to the source-to-source translation. Afterwards, we will show how such translations can be implemented in Python.",
+        "references": []
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=w9vkLgN161c",
+    "lightning_talks": []
+  },
+  {
+    "id": 22,
+    "title": "Python Belgrade #21",
+    "location": {
+      "name": "ICT Hub Kralja Milana",
+      "url": "https://goo.gl/maps/SYQxBMwCuF6duGkT8"
+    },
+    "start": "2019-01-25 18:00",
+    "talks": [
+      {
+        "title": "Pragmatic Pull Request Reviews",
+        "speakers": [
+          38
+        ],
+        "abstract": "The idea is to share what we’ve learned from doing a lot of pull request reviews, especially in Python context. What type of pull requests there are & how to handle the review process for each of them.",
+        "references": []
+      },
+      {
+        "title": "Transofrming functions into classes- why and how",
+        "speakers": [
+          46
+        ],
+        "abstract": "Mainly making a live code demo. We’ll start with Celery example from where we took the idea. Then continue with a demo how we ended up using suck thing in a specific use-case.",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 21,
+    "title": "Open Source Panel Discussion",
+    "location": {
+      "name": "Startit Centar Beograd",
+      "url": "https://maps.app.goo.gl/omb6dD3b1hewEdrx8"
+    },
+    "start": "2019-03-05 18:00",
+    "talks": [],
+    "youtube": "https://www.youtube.com/watch?v=9XTLG2Grn3M",
+    "lightning_talks": []
+  },
+  {
+    "id": 20,
+    "title": "Python Belgrade #20",
+    "location": {
+      "name": "ICT Hub Kralja Milana",
+      "url": "https://goo.gl/maps/SYQxBMwCuF6duGkT8"
+    },
+    "start": "2018-09-28 18:00",
+    "talks": [
+      {
+        "title": "Enriching django templates with fancy logic",
+        "speakers": [
+          39
+        ],
+        "abstract": "Django offers a full-fledged environment for building web applications from top to bottom, and that's awesome. But while the backend development allows the logic to be as advanced as needed, the fronted is still limited to just template rendering. Having logic-less(ish) templates is a nice principle that avoids unnecessary issues, but what do you do when you really need having frontend logic in only some parts of the application?",
+        "references": []
+      },
+      {
+        "title": "Preparing for growth - logs, charts and alerts",
+        "speakers": [
+          40
+        ],
+        "abstract": "Your software solution can initially be handled by checking logs at the moment of curiosity, examining requests themselves and knowing what to look for. What happens when your requests double? Triple? Grow a thousand times?\nPrepare your infrastructure for proper monitoring with simple software patterns - then break no sweat when it's time to implement these tools.",
+        "references": []
+      },
+      {
+        "title": "Complex networks: analysis and visualization",
+        "speakers": [
+          41
+        ],
+        "abstract": "The study of complex networks has been an extremely active field in recent years. This is not surprising given their wide application in many scientific and technological research areas and the fact that the world becomes more and more \"connected\" every second.\nFirst we'll give a short introduction to the theory of complex networks, their structure, properties, and some math basis.\nThen we will go through some of the most common methods and algorithms for complex networks analysis, and show their implementation in some practical cases, including social and geospatial networks.",
+        "references": []
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=ZqubITyv1ao",
+    "lightning_talks": []
+  },
+  {
+    "id": 19,
+    "title": "Python Belgrade #19",
+    "location": {
+      "name": "Balkon Bar",
+      "url": "https://maps.app.goo.gl/x6EnGJXPMqEAfESt6"
+    },
+    "start": "2018-06-29 19:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 18,
+    "title": "Python Belgrade #18",
+    "location": {
+      "name": "ICT Hub Kralja Milana",
+      "url": "https://goo.gl/maps/SYQxBMwCuF6duGkT8"
+    },
+    "start": "2018-05-25 18:00",
+    "talks": [
+      {
+        "title": "Creating melody in Python",
+        "speakers": [
+          42
+        ],
+        "abstract": "Experimenting and playing around with music is a good way to pass time and doing it with a programming language brings another level of fun to the whole experience. In this talk we will go through some basic musical concepts and then using free and open source software we'll generate few simple melodies. It's a beginner level talk that won't bore you with too much music theory and might interest you to do your own musical experiments",
+        "references": []
+      },
+      {
+        "title": "Automated generation of text, images and music using methods from machine learning",
+        "speakers": [
+          43
+        ],
+        "abstract": "Machine learning has archived a wide range of amazing results in the last couple of years, from beating the world champion in Go, to autonomous driving and signal processing. Python has played a significant role in this as an amazing frontend and language that allows ML engineers to focus on ML rather then tehnicalities and boilerplate code.\n\nWe will look to explore the current methods in the field used to generate text (make a neural network write like Shakespeare or write XML or Python code), process sound (play Piano or try to remove the noise from the sound) and images (making neural networks dream). We will speak about the limitations and state of the art methods known today for the mentioned topics.",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 17,
+    "title": "Python Belgrade #17",
+    "location": {
+      "name": "ICT Hub Kralja Milana",
+      "url": "https://goo.gl/maps/SYQxBMwCuF6duGkT8"
+    },
+    "start": "2018-03-30 18:00",
+    "talks": [
+      {
+        "title": "Recommender systems in Python",
+        "speakers": [
+          49
+        ],
+        "abstract": "Introduction to recommender systems - collaborative filtering and content filtering - through LIVE CODING SESSION. We will implement some of the basic machine learning algorithms in python, dive through existing libraries and explain how can we leverage deep learning to improve upon the traditional machine learning models.",
+        "references": []
+      },
+      {
+        "title": "gRPC microservices architecture",
+        "speakers": [
+          57
+        ],
+        "abstract": "This lecture will concentrate on problems we can come across during scaling REST API service. Based on his previous experience, Ante will present possibilities of GRPC framework, which enables RPC calls using Google Protocol Buffers mechanism.",
+        "references": []
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=165Q0C9bk6E",
+    "lightning_talks": []
+  },
+  {
+    "id": 16,
+    "title": "Python Belgrade #16",
+    "location": {
+      "name": "Kortechs",
+      "url": "https://maps.app.goo.gl/r82BocbNXcM16wEo8"
+    },
+    "start": "2018-02-23 18:00",
+    "talks": [
+      {
+        "title": "TensorFlow - Keras Tutorial",
+        "speakers": [
+          44, 45
+        ],
+        "abstract": "Valentina Đorđević from Things Solver and Miloš Popović from Totient will team up and give an exciting two-hour lecture. They will guide us through the magical ride of deep learning and TensorFlow basics, as well as user friendly high level API for deep learning called \"Keras\". But that’s not all- to make things more interesting, they will do it with a widely accessible dataset and provide materials that will allow you to do it yourself at home.\nThis lecture will require familiarity with Python, but it will not assume any knowledge of neural networks.",
+        "references": []
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=ry2YZC1671k",
+    "lightning_talks": []
+  },
+  {
+    "id": 15,
+    "title": "Python Belgrade #15",
+    "location": {
+      "name": "Kortechs",
+      "url": "https://maps.app.goo.gl/r82BocbNXcM16wEo8"
+    },
+    "start": "2018-01-26 18:00",
+    "talks": [
+      {
+        "title": "Zero-Downtime datacenter failovers",
+        "speakers": [
+          51
+        ],
+        "abstract": "Luka will have a talk about an excruciating feat that he performed last year together with his team. Task was a 2TB database migration in Mysql to a different host on a live infrastructure used by 1000 simultaneous realtime connections, with a ZERO DOWNTIME. The task lasted for a week and was a real success, so drop by to hear how Luka and his guys did the job",
+        "references": []
+      },
+      {
+        "title": "You saw it – shinning new - GRAPHQL!",
+        "speakers": [
+          53
+        ],
+        "abstract": "Everybody wants to use it, everyone needs to use it. But how is it in real life? Krzysztof will explain this phenomenon and give some insights about what he learned during integrating python backend with GraphQL, so be sure not to miss this.",
+        "references": []
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=OMidC2K8bNI",
+    "lightning_talks": []
+  },
+  {
+    "id": 14,
+    "title": "Python Belgrade #14",
+    "location": {
+      "name": "Kortechs",
+      "url": "https://maps.app.goo.gl/r82BocbNXcM16wEo8"
+    },
+    "start": "2017-11-24 18:00",
+    "talks": [
+      {
+        "title": "Talk about his experience considering game programming",
+        "speakers": [
+          52
+        ],
+        "abstract": "He will talk about his experience considering game programming, Switchcars and of course about the Derail Valley (http://www.derailvalley.com/), his new project that has already won a prize on a worldwide MSI VR Jam contest.",
+        "references": [
+          {
+            "title": "Altfuture",
+            "url": "http://altfuture.tumblr.com/about"
+          },
+          {
+            "title": "Switchcars",
+            "url": "http://switchcarsgame.com/"
+          },
+          {
+            "title": "Derail Valley",
+            "url": "(http://www.derailvalley.com/"
+          }
+        ]
+      },
+      {
+        "title": "Developing games in a Ren'Py surrounding, that is based on Python",
+        "speakers": [
+          50
+        ],
+        "abstract": "talk about developing games in a Ren'Py surrounding, that is based on Python. It is also known as a \"visual novel engine\" and this will be a great opportunity for everyone that are interested in the development of visual novels (such as Japanese iconography) to hear something about the tools of gamedev technologies.",
+        "references": [
+          {
+            "title": "Ren'Py",
+            "url": "http://www.renpy.org/"
+          },
+          {
+            "title": "Visual Novel",
+            "url": "http://en.wikipedia.org/wiki/Visual_novel"
+          }
+        ]
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 13,
+    "title": "Python Belgrade #13",
+    "location": {
+      "name": "Kortechs",
+      "url": "https://maps.app.goo.gl/r82BocbNXcM16wEo8"
+    },
+    "start": "2017-10-27 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 12,
+    "title": "Python Belgrade #12",
+    "location": {
+      "name": "Kortechs",
+      "url": "https://maps.app.goo.gl/r82BocbNXcM16wEo8"
+    },
+    "start": "2017-09-29 18:00",
+    "talks": [
+      {
+        "title": "Serverless technologies",
+        "speakers": [
+          15
+        ],
+        "abstract": "Mislav Cimpersak will talk about Serverless technologies. He will present both positive and negative sides of Serverless technologies and he will also talk about the ways of applying Python on them. Mislav will provide us with code examples for better understanding and he will demonstrate how we can make great use of it.",
+        "references": [
+          {
+            "title": "Styria",
+            "url": "https://www.styria.com/en/"
+          }
+        ]
+      },
+      {
+        "title": "Transferring Mobile Games to the Cloud with Python",
+        "speakers": [
+          16
+        ],
+        "abstract": "Darko will talk about transferring Mobile Games to the Cloud with Python. When a mobile game development company decides to switch to a more cloud based development it is faced with obstacles different from those it's used to on mobile devices. This talk will explain how Python provides us with most of the infrastructure for this task and how a Python game backend is built as a result.",
+        "references": []
+      },
+      {
+        "title": "How Python can be used connected to Blockchain",
+        "speakers": [
+          17
+        ],
+        "abstract": "Vuksan will explain how Python can be used connected to Blockchain. Stay tuned for more detailed information, it's coming up soon!",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 11,
+    "title": "Python Belgrade #11",
+    "location": {
+      "name": "Luča | Djure Daničića 4",
+      "url": "https://maps.app.goo.gl/CzBJGFqUfPuv8g3v5"
+    },
+    "start": "2017-06-23 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 10,
+    "title": "Python Belgrade #10",
+    "location": {
+      "name": "Kortechs",
+      "url": "https://maps.app.goo.gl/r82BocbNXcM16wEo8"
+    },
+    "start": "2017-05-26 18:00",
+    "talks": [
+      {
+        "titla": "Horetu presentation",
+        "speakers": [
+          18
+        ],
+        "abstract": "Horetu exposes ordinary Python functions as other user interfaces. When applied to a function, it automatically constructs corresponding command-line interfaces, web interfaces, configuration files, internet relay chat (IRC) bots, and Django management commands. It is a great way to set up quickly a user interface for a Python program.",
+        "references": [
+          {
+            "title": "Horetu",
+            "url": "https://pypi.python.org/pypi/horetu/"
+          }
+        ]
+      },
+      {
+        "title": "Python applications in production",
+        "speakers": [
+          19
+        ],
+        "abstract": "Jakub will talk about Python applications in production. How to be sure that you didn't skip the step in releasing an application and released an application too early.",
+        "references": []
+      },
+      {
+        "title": "Dictionary under the hood",
+        "speakers": [
+          20
+        ],
+        "abstract": "",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 9,
+    "title": "Python Belgrade #9",
+    "location": {
+      "name": "Kortechs",
+      "url": "https://maps.app.goo.gl/r82BocbNXcM16wEo8"
+    },
+    "start": "2017-03-24 18:00",
+    "talks": [
+      {
+        "title": "IoT, Python and Cassandra: A Match Made in Heaven",
+        "speakers": [
+          22, 23
+        ],
+        "abstract": "This lecture will explain how to design and implement a simple persistent cloud-based internet of things platform in less than 100 lines of Python code.",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  }
+]

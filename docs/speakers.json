@@ -1,0 +1,708 @@
+[
+  {
+    "name": "Pavel Sviridov",
+    "linkedin": "https://linkedin.com/in/svipy/",
+    "description": "Senior Backend Developer / Team Leader",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/svipy.jpg",
+    "id": 1
+  },
+  {
+    "name": "Alexander Medvedev",
+    "linkedin": "https://linkedin.com/in/medvosa/",
+    "description": "Front-end developer at kortechs.io",
+    "contact_info": {
+      "email": "medvosa@yandex.ru"
+    },
+    "github": null,
+    "photo": "docs/speakers/medvosa.jpg",
+    "id": 2
+  },
+  {
+    "name": "Maria Mozgunova",
+    "linkedin": "https://linkedin.com/in/mariamozgunova/",
+    "description": "Python Developer @ Kortechs",
+    "contact_info": {
+      "websites": [
+        {
+          "link": "https://leetcode.com/MariaMozgunova/",
+          "name": "leetcode.com/MariaMozgunova/"
+        }
+      ],
+      "email": "mariiamozgunova@gmail.com"
+    },
+    "github": "https://github.com/MariaMozgunova",
+    "photo": "docs/speakers/mariamozgunova.jpg",
+    "id": 3
+  },
+  {
+    "name": "Alexander Hendorf",
+    "linkedin": "https://linkedin.com/in/hendorf/",
+    "description": "Head of Data & AI @ KÖNIGSWEG 📍 Python Software Foundation Fellow 📍 PyData 📍 Python SV Chair",
+    "contact_info": {
+      "twitter": "hendorf"
+    },
+    "github": null,
+    "photo": "docs/speakers/hendorf.jpg",
+    "id": 4
+  },
+  {
+    "name": "Marko Aleksendrić",
+    "linkedin": "https://linkedin.com/in/aleksendric/",
+    "description": "Data Analyst | Author | Scientist | Web Developer",
+    "contact_info": {
+      "websites": [
+        {
+          "link": "http://www.freethrow.rs/",
+          "name": "freethrow.rs"
+        },
+        {
+          "link": "http://farmstack.site/",
+          "name": "farmstack.site"
+        }
+      ]
+    },
+    "github": null,
+    "photo": "docs/speakers/aleksendric.jpg",
+    "id": 5
+  },
+  {
+    "name": "Zarko Vulikic",
+    "linkedin": "https://linkedin.com/in/zarko-vulikic-58b1a9117/",
+    "description": "Senior Data Engineer at Hooloovoo",
+    "contact_info": {},
+    "github": null,
+    "photo": null,
+    "id": 6
+  },
+  {
+    "name": "Evgeniy Moiseev",
+    "linkedin": "https://linkedin.com/in/evgeniy-moiseev-994177122/",
+    "description": "Senior Python developer at Unifonic",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/evgeniy-moiseev-994177122.jpg",
+    "id": 7
+  },
+  {
+    "name": "Aleksandr Sulimov",
+    "linkedin": "https://linkedin.com/in/aleksul/",
+    "description": "Python Developer @ kiwi.com",
+    "contact_info": {
+      "websites": [
+        {
+          "link": "https://aleksul.space/",
+          "name": "aleksul.space"
+        }
+      ]
+    },
+    "github": null,
+    "photo": "docs/speakers/aleksul.jpg",
+    "id": 8
+  },
+  {
+    "name": "Luka Raljevic",
+    "linkedin": "https://linkedin.com/in/luka-raljevic/",
+    "description": "Senior Software Developer at INTIS",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/luka-raljevic.jpg",
+    "id": 9
+  },
+  {
+    "name": "Aleksa Terzic",
+    "linkedin": "https://linkedin.com/in/aleksa-terzic",
+    "description": "Backend Engineer at Flatfox AG",
+    "contact_info": {
+      "email": "terzicaleksa5@gmail.com"
+    },
+    "github": null,
+    "photo": "docs/speakers/aleksa-terzic.jpg",
+    "id": 10
+  },
+  {
+    "name": "Petar Nikolovski",
+    "linkedin": "https://linkedin.com/in/petar-nikolovski/",
+    "description": "SRE Engineer at United.Cloud",
+    "contact_info": {
+      "email": "petarnikmas@gmail.com"
+    },
+    "github": "https://github.com/petar-nikolovski",
+    "photo": "docs/speakers/petar-nikolovski.jpg",
+    "id": 11
+  },
+  {
+    "name": "Max Polezhaev",
+    "linkedin": "https://linkedin.com/in/max-polezhaev/",
+    "description": "Software Engineer at Kiwi",
+    "github": null,
+    "photo": "docs/speakers/max-polezhaev.jpg",
+    "id": 12
+  },
+  {
+    "name": "Alexander Todorov",
+    "github": "https://github.com/atodorov",
+    "linkedin": "https://www.linkedin.com/in/alextodorov/",
+    "description": "Founder Kiwi TCMS - open source test management",
+    "contact_info": {
+      "websites": [
+        {
+          "link": "https://atodorov.org",
+          "name": "atodorov.org"
+        }
+      ],
+      "twitter": "atodorov_"
+    },
+    "photo": "docs/speakers/alexander-todorov.jpg",
+    "id": 13
+  },
+  {
+    "name": "Milan Suk",
+    "github": "https://github.com/sukovanej",
+    "linkedin": "https://www.linkedin.com/in/milan-suk/",
+    "description": "Senior Software Engineer at Kiwi.com",
+    "photo": "docs/speakers/milan-suk.jpg",
+    "id": 14
+  },
+  {
+    "name": "Mislav Cimperšak",
+    "linkedin": "https://linkedin.com/in/mislavcimpersak/",
+    "description": "Director Of Engineering at Gencove",
+    "contact_info": {
+      "twitter": "MislavCimpersak"
+    },
+    "github": "https://github.com/mislavcimpersak/",
+    "photo": "docs/speakers/mislavcimpersak.jpg",
+    "id": 15
+  },
+  {
+    "name": "Darko Ronić",
+    "linkedin": "https://linkedin.com/in/darkoronic/",
+    "description": "Staff Engineer, SRE at Zapier",
+    "contact_info": {
+      "websites": [
+        {
+          "link": "http://ronic.co/",
+          "name": "ronic.co"
+        },
+        {
+          "link": "http://resumup.com/me/7517401",
+          "name": "resumup.com/me/7517401"
+        },
+        {
+          "link": "http://www.nanobit.hr/",
+          "name": "nanobit.hr"
+        }
+      ],
+      "twitter": "apolloFER"
+    },
+    "github": null,
+    "photo": "docs/speakers/darkoronic.jpg",
+    "id": 16
+  },
+  {
+    "name": "Vuksan Simunović",
+    "linkedin": "https://www.linkedin.com/in/vuksansimunovic/",
+    "description": "CEO & Co-Founder at Trapesys | Founder In Residence at Attic42",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/vuksan-simunovic.jpg",
+    "id": 17
+  },
+  {
+    "name": "Thomas Levine",
+    "github": "https://github.com/tlevine",
+    "linkedin": null,
+    "description": "",
+    "photo": null,
+    "id": 18
+  },
+  {
+    "name": "Jakub Vorel",
+    "linkedin": "https://linkedin.com/in/jakub-vorel-65813410a/",
+    "description": "Senior Software Engineer at Simple Poll",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/jakub-vorel-65813410a.jpg",
+    "id": 19
+  },
+  {
+    "name": "Željko Kojić",
+    "linkedin": "https://linkedin.com/in/zeljko-kojic-05249490/",
+    "description": "Software Engineering Team Lead @EnergySage",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/zeljko-kojic-05249490.jpg",
+    "id": 20
+  },
+  {
+    "name": "Jožko Škrablin",
+    "linkedin": "https://linkedin.com/in/jozko-skrablin-75588757/",
+    "description": "DevOps",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/jozko-skrablin-75588757.jpg",
+    "id": 21
+  },
+  {
+    "name": "Nebojša Mrkić",
+    "linkedin": "https://linkedin.com/in/nebojsa-mrkic-08640437/",
+    "description": "Senior Software developer and Solution architect",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/nebojsa-mrkic-08640437.jpg",
+    "id": 22
+  },
+  {
+    "name": "Dejan Mijić",
+    "linkedin": "https://linkedin.com/in/mijicd/",
+    "description": "Lead Engineer at LiveIntent, Inc.",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/mijicd.jpg",
+    "id": 23
+  },
+  {
+    "name": "Petr Viktorin",
+    "linkedin": "https://linkedin.com/in/petr-viktorin-a5043a14/",
+    "description": "A Pythonista",
+    "contact_info": {
+      "twitter": "EnCuKou"
+    },
+    "github": null,
+    "photo": null,
+    "id": 24
+  },
+  {
+    "name": "Jozef Kepesi",
+    "linkedin": "https://linkedin.com/in/jozefkepesi/",
+    "description": "CA, Kiwi.com",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/jozefkepesi.jpg",
+    "id": 25
+  },
+  {
+    "name": "Bojan Jovanović",
+    "linkedin": "https://linkedin.com/in/bojovanovic/",
+    "description": "Prototyper :: kortechs.io is always on the lookout for python devs to join our team",
+    "contact_info": {
+      "email": "bojan@kortechs.io",
+      "ims": "IM\nmaletic255 (Skype)"
+    },
+    "github": null,
+    "photo": "docs/speakers/bojovanovic.jpg",
+    "id": 26
+  },
+  {
+    "name": "Milan Stanojević",
+    "linkedin": "https://linkedin.com/in/milan-stanojevic/",
+    "description": "Software Engineer",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/milan-stanojevic.jpg",
+    "id": 27
+  },
+  {
+    "name": "Robert van Geel",
+    "linkedin": "https://linkedin.com/in/ramvangeel/",
+    "description": "CEO at dotData.nl",
+    "contact_info": {
+      "email": "robert@dotdata.nl",
+      "websites": [
+        {
+          "link": "http://www.dotdata.nl/",
+          "name": "dotdata.nl"
+        }
+      ]
+    },
+    "github": null,
+    "photo": "docs/speakers/ramvangeel.jpg",
+    "id": 28
+  },
+  {
+    "name": "Stefan Vujovic",
+    "linkedin": "https://linkedin.com/in/stefanvujovic/",
+    "description": "Senior Data Scientist @ Growth Marketing Automation",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/stefanvujovic.jpg",
+    "id": 29
+  },
+  {
+    "name": "Milos Milovanovic",
+    "linkedin": "https://linkedin.com/in/milovanovicmilos/",
+    "description": "Director of Delivery and Customer Success at Things Solver",
+    "contact_info": {
+      "twitter": "agattonn"
+    },
+    "github": null,
+    "photo": "docs/speakers/milovanovicmilos.jpg",
+    "id": 30
+  },
+  {
+    "name": "Bojan Matic",
+    "linkedin": "https://linkedin.com/in/bojan-mati%C4%87-723920b/",
+    "description": "Software Engineer & Tech Executive",
+    "contact_info": {
+      "websites": [
+        {
+          "link": "https://moljac024.com/",
+          "name": "moljac024.com"
+        }
+      ],
+      "twitter": "moljac024"
+    },
+    "github": null,
+    "photo": "docs/speakers/bojan-matic.jpg",
+    "id": 31
+  },
+  {
+    "name": "Zeljko Milojevic",
+    "linkedin": "https://linkedin.com/in/zeljko-milojevic-ba6a50149/",
+    "description": "Python Training Specialist / Software Developer",
+    "contact_info": {
+      "websites": [
+        {
+          "link": "http://www.vukovkod.rs/",
+          "name": "vukovkod.rs"
+        },
+        {
+          "link": "http://znanje.ndigitalizuj.se/",
+          "name": "znanje.ndigitalizuj.se"
+        }
+      ]
+    },
+    "github": null,
+    "photo": "docs/speakers/zeljko-milojevic-ba6a50149.jpg",
+    "id": 32
+  },
+  {
+    "name": "Nikola Pavlicevic",
+    "linkedin": null,
+    "description": null,
+    "github": null,
+    "photo": null,
+    "id": 33
+  },
+  {
+    "name": "Ivan Mitic",
+    "linkedin": "https://www.linkedin.com/in/ivan-mitic-7a94b052/",
+    "description": "Senior Software Architect at Novolyze",
+    "github": null,
+    "photo": "docs/speakers/ivan-mitic.jpg",
+    "id": 34
+  },
+  {
+    "name": "Djordje Jovic",
+    "linkedin": null,
+    "description": null,
+    "github": null,
+    "photo": null,
+    "id": 35
+  },
+  {
+    "name": "Bence Nagy",
+    "linkedin": "https://www.linkedin.com/in/underyx",
+    "description": "Senior Software Engineer at Semgrep",
+    "contact_info": {
+      "websites": [
+        {
+          "link": "https://underyx.me/",
+          "name": "underyx.me"
+        }
+      ],
+      "email": "bence@underyx.me"
+    },
+    "github": "https://github.com/underyx",
+    "photo": "docs/speakers/bence-nagy.jpg",
+    "id": 36
+  },
+  {
+    "name": "Alen Suljkanovc",
+    "linkedin": "https://www.linkedin.com/in/alen-suljkanovic/",
+    "description": "Senior Software Engineer | Python | MDE, SLE | Code generation specialist",
+    "contact_info": {},
+    "github": "https://github.com/alensuljkanovic",
+    "photo": "docs/speakers/alen-suljkanovic.jpg",
+    "id": 37
+  },
+  {
+    "name": "Radoslav Georgiev",
+    "linkedin": "https://www.linkedin.com/in/radoslav-georgiev-hacksoft/",
+    "description": "CEO & Founder at HackSoft",
+    "contact_info": {
+      "email": "radorado@hacksoft.io",
+      "twitter": "Rado_g",
+      "websites": [
+        {
+          "link": "https://hacksoft.io/",
+          "name": "hacksoft.io"
+        }
+      ]
+    },
+    "github": "https://github.com/RadoRado/",
+    "photo": "docs/speakers/radoslav-georgiev-hacksoft.jpg",
+    "id": 38
+  },
+  {
+    "name": "Alex Viscreanu",
+    "linkedin": "https://www.linkedin.com/in/alexviscreanu/",
+    "description": "Go developer at Kiwi.com",
+    "contact_info": {
+      "email": "alexviscreanu@gmail.com"
+    },
+    "github": "https://github.com/aexvir",
+    "photo": "docs/speakers/alex-viscreanu.jpg",
+    "id": 39
+  },
+  {
+    "name": "Tin Marković",
+    "linkedin": "https://www.linkedin.com/in/tin-markovic/",
+    "description": "Senior Software Engineering Consultant @ NBA && @ Adiuvat",
+    "contact_info": {
+      "email": "tinmarkoviccs@gmail.com",
+      "websites": [
+        {
+          "link": "https://tinthe.dev/",
+          "name": "tinthe.dev"
+        }
+      ]
+    },
+    "github": "https://github.com/TinMarkovic",
+    "photo": "docs/speakers/tin-markovic.jpg",
+    "id": 40
+  },
+  {
+    "name": "Uroš Pajić",
+    "linkedin": null,
+    "description": "Software Engineer at Kortechs",
+    "github": null,
+    "photo": null,
+    "id": 41
+  },
+  {
+    "name": "Neven Munđar",
+    "linkedin": null,
+    "description": null,
+    "github": null,
+    "photo": null,
+    "id": 42
+  },
+  {
+    "name": "Nemanja Mićović",
+    "linkedin": null,
+    "description": null,
+    "github": null,
+    "photo": null,
+    "id": 43
+  },
+  {
+    "name": "Milos Popović",
+    "linkedin": "https://www.linkedin.com/in/popovicmilos/",
+    "description": "VP of AI Platform at Everseen, Implementing AI in commerce, Computer Vision and MLOps at scale",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/milos-popovic.jpg",
+    "id": 44
+  },
+  {
+    "name": "Valentina Đorđević",
+    "linkedin": "https://www.linkedin.com/in/valentina-%C4%91or%C4%91evi%C4%87/",
+    "description": "Head of Data and Innovation at Things Solver",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/valentina-dordevic.jpg",
+    "id": 45
+  },
+  {
+    "name": "Martin Angelov",
+    "linkedin": "https://www.linkedin.com/in/martin-angelov-251257251/",
+    "description": "Technical Team Lead at HackSoft",
+    "contact_info": {
+      "email": "martin.angelov@hacksoft.io"
+    },
+    "github": "https://github.com/martin056",
+    "photo": "docs/speakers/martin-angelov.jpg",
+    "id": 46
+  },
+  {
+    "name": "Mahmoud Zalt",
+    "linkedin": null,
+    "description": null,
+    "github": null,
+    "photo": null,
+    "id": 47
+  },
+  {
+    "name": "Adam Culp",
+    "linkedin": null,
+    "description": null,
+    "github": null,
+    "photo": null,
+    "id": 48
+  },
+  {
+    "name": "Viktor Kerkez",
+    "linkedin": "https://www.linkedin.com/in/viktor-kerkez-a9a1b31a/",
+    "description": "Senior Software Engineer at GenAI",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/viktor-kerkez.jpg",
+    "id": 49
+  },
+  {
+    "name": "Ranko Trifković",
+    "linkedin": "https://www.linkedin.com/in/ranko-trifkovic-42b9503/",
+    "description": "Narrative Architect/ Healer of Broken Stories / Narrative Design Mentor and Coach",
+    "contact_info": {
+      "twitter": "RankoTrifkovic"
+    },
+    "github": null,
+    "photo": "docs/speakers/ranko-trifkovic.jpg",
+    "id": 50
+  },
+  {
+    "name": "Luka Kladarić",
+    "linkedin": null,
+    "description": null,
+    "github": null,
+    "photo": null,
+    "id": 51
+  },
+  {
+    "name": "Slobodan Stević",
+    "linkedin": "https://www.linkedin.com/in/altfuture/",
+    "description": "Founder, CEO & Product Designer at Altfuture",
+    "github": null,
+    "photo": "docs/speakers/slobodan-stevic.jpg",
+    "id": 52
+  },
+  {
+    "name": "Krzysztof Zuraw",
+    "linkedin": null,
+    "description": null,
+    "github": null,
+    "photo": null,
+    "id": 53
+  },
+  {
+    "name": "Mike Mac",
+    "linkedin": null,
+    "description": "Data Analyst",
+    "github": null,
+    "photo": null,
+    "id": 54
+  },
+  {
+    "name": "Nenad Jovic",
+    "linkedin": null,
+    "description": null,
+    "github": null,
+    "photo": null,
+    "id": 55
+  },
+  {
+    "name": "Amir Ebrahimi",
+    "linkedin": null,
+    "description": null,
+    "github": null,
+    "photo": null,
+    "id": 56
+  },
+  {
+    "name": "Ante Aljinovic",
+    "linkedin": "https://www.linkedin.com/in/antealjinovic/",
+    "description": "Engineering Manager at Seekandhit",
+    "contact_info": {},
+    "github": null,
+    "photo": "docs/speakers/ante-aljinovic.jpg",
+    "id": 57
+  },
+  {
+    "id": 58,
+    "name": "Nikita Borgolov",
+    "linkedin": "https://www.linkedin.com/in/nikita-borgolov/",
+    "description": "Senior Rust developer | Binarly | Currently at Belgrade 🏙️",
+    "contact_info": {},
+    "photo": "docs/speakers/nikita-borgolov.jpg",
+    "github": "https://github.com/nikibor"
+  },
+  {
+    "id": 59,
+    "name": "Honza Kral",
+    "linkedin": "https://www.linkedin.com/in/honzakral/",
+    "description": "Platform Engineer at Pace Revenue",
+    "contact_info": {
+      "twitter": "HonzaKral"
+    },
+    "photo": "docs/speakers/honzakral.jpg",
+    "github": "https://github.com/HonzaKral"
+  },
+  {
+    "id": 60,
+    "name": "Ivan Misic",
+    "linkedin": "https://www.linkedin.com/in/ivan-misic-553924a2/",
+    "description": "Senior Python Software Engineer at Nortal",
+    "contact_info": {},
+    "photo": "docs/speakers/ivan-misic.jpg",
+    "github": "https://github.com/ivanmisic"
+  },
+  {
+    "id": 61,
+    "name": "Jiří Beneš",
+    "linkedin": "https://www.linkedin.com/in/ji%C5%99%C3%AD-bene%C5%A1-507b1179/",
+    "description": "Co-Founder & CTO at ManywaysApp",
+    "contact_info": {},
+    "photo": "docs/speakers/jiri-benes.jpg",
+    "github": null
+  },
+  {
+    "id": 62,
+    "name": "Ondrej Vesely",
+    "linkedin": "https://www.linkedin.com/in/ondrej-vesely/",
+    "description": "Developer, data engineer, entrepreneur",
+    "contact_info": {
+      "twitter": "xorwen"
+    },
+    "photo": "docs/speakers/ondrej-vesely.jpg",
+    "github": null
+  },
+  {
+    "id": 63,
+    "name": "Tomas Mikulec",
+    "linkedin": null,
+    "description": null,
+    "contact_info": {
+      "email": "to.mikulec@email.cz",
+      "twitter": "pulecc",
+      "websites": [
+        {
+          "name": "g+",
+          "link": "https://plus.google.com/u/0/118197141650545267452/about"
+        }
+      ]
+    },
+    "photo": null,
+    "github": "https://github.com/pulecz"
+  },
+  {
+    "id": 64,
+    "name": "Martin Polednik",
+    "linkedin": "https://www.linkedin.com/in/martin-polednik-8a341866",
+    "description": "Building the technology behind JustWatch",
+    "contact_info": {
+      "email": "m.polednik@gmail.com",
+      "twitter": "mpolednik",
+      "websites": [
+        {
+          "name": "mpolednik.github.io",
+          "link": "https://mpolednik.github.io/"
+        }
+      ]
+    },
+    "photo": "docs/speakers/martin-polednik.jpg",
+    "github": "https://github.com/mpolednik"
+  }
+]
