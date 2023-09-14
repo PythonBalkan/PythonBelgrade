@@ -344,11 +344,11 @@
         "abstract": "- Quick intro of the Kiwi TCMS open source project\n- Quick info about the black box hardware\n- Share with the audience why these black boxes exist and what kinds of biases they serve to demonstrate.\n\nThe talk will be mostly be around hardware Kiwi TCMS boxes, Alexander will be bringing a couple of them so that the attendees will be able to play around with them throughout the event.",
         "references": [
           {
-            "link": "https://github.com/kiwitcms/black-boxes",
+            "url": "https://github.com/kiwitcms/black-boxes",
             "title": "Hardware for teaching exploratory testing"
           },
           {
-            "link": "https://kiwitcms.org/blog/kiwi-tcms-team/2020/10/10/progress-update-on-open-source-hardware-for-black-box-testing/",
+            "url": "https://kiwitcms.org/blog/kiwi-tcms-team/2020/10/10/progress-update-on-open-source-hardware-for-black-box-testing/",
             "title": "Progress update on open source hardware for black-box testing in cooperation with Pionir"
           }
         ]
@@ -461,11 +461,11 @@
         "references": [
           {
             "title": "NarrenOrg",
-            "link": "https://github.com/narrenorg"
+            "url": "https://github.com/narrenorg"
           },
           {
             "title": "Narrenschiff",
-            "link": "https://narrenschiff.xyz"
+            "url": "https://narrenschiff.xyz"
           }
         ]
       }
@@ -499,7 +499,7 @@
         "references": [
           {
             "title": "WorldEngine - a world generator",
-            "link": "https://github.com/Mindwerks/worldengine"
+            "url": "https://github.com/Mindwerks/worldengine"
           }
         ]
       }
@@ -861,7 +861,7 @@
     "start": "2017-05-26 18:00",
     "talks": [
       {
-        "titla": "Horetu presentation",
+        "title": "Horetu presentation",
         "speakers": [
           18
         ],

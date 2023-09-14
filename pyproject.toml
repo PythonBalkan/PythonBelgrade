@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "Python Belgrade"
+version = "0.1.0"
+description = ""
+authors = [
+  "Ruslan <shaggybackend@gmail.com>",
+  "Andjela Dojcinovic",
+  "Sergey Aksenov <sergeax@gmail.com>",
+  "Bojan <bojan.jovanovic.gtech@gmail.com>",
+  "Petar Nikolovski <petar.nikolovski@protonmail.com>"
+]
+readme = "README.md"
+packages = [
+  { include = "docs" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+sphinx = "^7.2.5"
+sphinxcontrib-youtube = "^1.2.0"
+sphinxcontrib-images = "^0.9.4"
+pydata-sphinx-theme = "^0.13.3"
+sphinx-icon = "^0.2.2"
+
+[tool.poetry.group.dev.dependencies]
+pre-commit = "^3.4.0"
+black = "^23.9.1"
+ruff = "^0.0.289"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+generate-rst = "generate_rst:main"

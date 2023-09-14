@@ -5,3 +5,6 @@ _build/
 build/
 .idea
 **\venv
+.venv
+.DS_Store
+__pycache__

@@ -37,7 +37,9 @@ What is the program of the meetup ?
 Meetup lasts for 2hours, and is consisted of 2 talks that last for 30minutes of talk time followed by 10minutes of Q/A from the audience.
 Instead of the 3rd talk, we do community lightning talks, lightning talks are quick 6 talks capped at 5minutes from the audience, where you get to share and talk about whatever is on your mind.
 
-Here is a video we made for the Pycon Balkan conference explaining what lightning talks are https://www.youtube.com/watch?v=K0jNaqNzR5E
+Here is a video we made for the Pycon Balkan conference explaining what lightning talks are 
+
+..  youtube:: K0jNaqNzR5E
 
 Lightning talks themselfs do not neccesarily have to be technical you can talk about the weather or a picture of a spider you just drew for all we care, but for no longer than 5 mintues.
 
@@ -71,6 +73,12 @@ Only reason why you may want to bring a laptop would be if you are planning to g
    :caption: Previous meetups:
 
    meetups/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Speakers:
+
+   speakers/index
 
 .. toctree::
    :maxdepth: 2

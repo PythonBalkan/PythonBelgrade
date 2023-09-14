@@ -5,18 +5,18 @@
     "description": "Senior Backend Developer / Team Leader",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/svipy.jpg",
+    "photo": "../_static/img/speakers/svipy.jpg",
     "id": 1
   },
   {
-    "name": "Alexander Medvedev",
+    "name": "Arina Medvedeva",
     "linkedin": "https://linkedin.com/in/medvosa/",
     "description": "Front-end developer at kortechs.io",
     "contact_info": {
       "email": "medvosa@yandex.ru"
     },
-    "github": null,
-    "photo": "docs/speakers/medvosa.jpg",
+    "github": "https://github.com/medvosa",
+    "photo": "../_static/img/speakers/medvosa.jpg",
     "id": 2
   },
   {
@@ -33,7 +33,7 @@
       "email": "mariiamozgunova@gmail.com"
     },
     "github": "https://github.com/MariaMozgunova",
-    "photo": "docs/speakers/mariamozgunova.jpg",
+    "photo": "../_static/img/speakers/mariamozgunova.jpg",
     "id": 3
   },
   {
@@ -44,7 +44,7 @@
       "twitter": "hendorf"
     },
     "github": null,
-    "photo": "docs/speakers/hendorf.jpg",
+    "photo": "../_static/img/speakers/hendorf.jpg",
     "id": 4
   },
   {
@@ -64,7 +64,7 @@
       ]
     },
     "github": null,
-    "photo": "docs/speakers/aleksendric.jpg",
+    "photo": "../_static/img/speakers/aleksendric.jpg",
     "id": 5
   },
   {
@@ -82,7 +82,7 @@
     "description": "Senior Python developer at Unifonic",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/evgeniy-moiseev-994177122.jpg",
+    "photo": "../_static/img/speakers/evgeniy-moiseev-994177122.jpg",
     "id": 7
   },
   {
@@ -98,7 +98,7 @@
       ]
     },
     "github": null,
-    "photo": "docs/speakers/aleksul.jpg",
+    "photo": "../_static/img/speakers/aleksul.jpg",
     "id": 8
   },
   {
@@ -107,7 +107,7 @@
     "description": "Senior Software Developer at INTIS",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/luka-raljevic.jpg",
+    "photo": "../_static/img/speakers/luka-raljevic.jpg",
     "id": 9
   },
   {
@@ -118,7 +118,7 @@
       "email": "terzicaleksa5@gmail.com"
     },
     "github": null,
-    "photo": "docs/speakers/aleksa-terzic.jpg",
+    "photo": "../_static/img/speakers/aleksa-terzic.jpg",
     "id": 10
   },
   {
@@ -129,7 +129,7 @@
       "email": "petarnikmas@gmail.com"
     },
     "github": "https://github.com/petar-nikolovski",
-    "photo": "docs/speakers/petar-nikolovski.jpg",
+    "photo": "../_static/img/speakers/petar-nikolovski.jpg",
     "id": 11
   },
   {
@@ -137,7 +137,7 @@
     "linkedin": "https://linkedin.com/in/max-polezhaev/",
     "description": "Software Engineer at Kiwi",
     "github": null,
-    "photo": "docs/speakers/max-polezhaev.jpg",
+    "photo": "../_static/img/speakers/max-polezhaev.jpg",
     "id": 12,
     "contact_info": {}
   },
@@ -155,7 +155,7 @@
       ],
       "twitter": "atodorov_"
     },
-    "photo": "docs/speakers/alexander-todorov.jpg",
+    "photo": "../_static/img/speakers/alexander-todorov.jpg",
     "id": 13
   },
   {
@@ -163,7 +163,7 @@
     "github": "https://github.com/sukovanej",
     "linkedin": "https://www.linkedin.com/in/milan-suk/",
     "description": "Senior Software Engineer at Kiwi.com",
-    "photo": "docs/speakers/milan-suk.jpg",
+    "photo": "../_static/img/speakers/milan-suk.jpg",
     "id": 14,
     "contact_info": {}
   },
@@ -175,7 +175,7 @@
       "twitter": "MislavCimpersak"
     },
     "github": "https://github.com/mislavcimpersak/",
-    "photo": "docs/speakers/mislavcimpersak.jpg",
+    "photo": "../_static/img/speakers/mislavcimpersak.jpg",
     "id": 15
   },
   {
@@ -200,7 +200,7 @@
       "twitter": "apolloFER"
     },
     "github": null,
-    "photo": "docs/speakers/darkoronic.jpg",
+    "photo": "../_static/img/speakers/darkoronic.jpg",
     "id": 16
   },
   {
@@ -209,7 +209,7 @@
     "description": "CEO & Co-Founder at Trapesys | Founder In Residence at Attic42",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/vuksan-simunovic.jpg",
+    "photo": "../_static/img/speakers/vuksan-simunovic.jpg",
     "id": 17
   },
   {
@@ -227,7 +227,7 @@
     "description": "Senior Software Engineer at Simple Poll",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/jakub-vorel-65813410a.jpg",
+    "photo": "../_static/img/speakers/jakub-vorel-65813410a.jpg",
     "id": 19
   },
   {
@@ -236,7 +236,7 @@
     "description": "Software Engineering Team Lead @EnergySage",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/zeljko-kojic-05249490.jpg",
+    "photo": "../_static/img/speakers/zeljko-kojic-05249490.jpg",
     "id": 20
   },
   {
@@ -245,7 +245,7 @@
     "description": "DevOps",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/jozko-skrablin-75588757.jpg",
+    "photo": "../_static/img/speakers/jozko-skrablin-75588757.jpg",
     "id": 21
   },
   {
@@ -254,7 +254,7 @@
     "description": "Senior Software developer and Solution architect",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/nebojsa-mrkic-08640437.jpg",
+    "photo": "../_static/img/speakers/nebojsa-mrkic-08640437.jpg",
     "id": 22
   },
   {
@@ -263,7 +263,7 @@
     "description": "Lead Engineer at LiveIntent, Inc.",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/mijicd.jpg",
+    "photo": "../_static/img/speakers/mijicd.jpg",
     "id": 23
   },
   {
@@ -283,7 +283,7 @@
     "description": "CA, Kiwi.com",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/jozefkepesi.jpg",
+    "photo": "../_static/img/speakers/jozefkepesi.jpg",
     "id": 25
   },
   {
@@ -295,7 +295,7 @@
       "ims": "IM\nmaletic255 (Skype)"
     },
     "github": null,
-    "photo": "docs/speakers/bojovanovic.jpg",
+    "photo": "../_static/img/speakers/bojovanovic.jpg",
     "id": 26
   },
   {
@@ -304,7 +304,7 @@
     "description": "Software Engineer",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/milan-stanojevic.jpg",
+    "photo": "../_static/img/speakers/milan-stanojevic.jpg",
     "id": 27
   },
   {
@@ -321,7 +321,7 @@
       ]
     },
     "github": null,
-    "photo": "docs/speakers/ramvangeel.jpg",
+    "photo": "../_static/img/speakers/ramvangeel.jpg",
     "id": 28
   },
   {
@@ -330,7 +330,7 @@
     "description": "Senior Data Scientist @ Growth Marketing Automation",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/stefanvujovic.jpg",
+    "photo": "../_static/img/speakers/stefanvujovic.jpg",
     "id": 29
   },
   {
@@ -341,7 +341,7 @@
       "twitter": "agattonn"
     },
     "github": null,
-    "photo": "docs/speakers/milovanovicmilos.jpg",
+    "photo": "../_static/img/speakers/milovanovicmilos.jpg",
     "id": 30
   },
   {
@@ -358,7 +358,7 @@
       "twitter": "moljac024"
     },
     "github": null,
-    "photo": "docs/speakers/bojan-matic.jpg",
+    "photo": "../_static/img/speakers/bojan-matic.jpg",
     "id": 31
   },
   {
@@ -378,7 +378,7 @@
       ]
     },
     "github": null,
-    "photo": "docs/speakers/zeljko-milojevic-ba6a50149.jpg",
+    "photo": "../_static/img/speakers/zeljko-milojevic-ba6a50149.jpg",
     "id": 32
   },
   {
@@ -395,7 +395,7 @@
     "linkedin": "https://www.linkedin.com/in/ivan-mitic-7a94b052/",
     "description": "Senior Software Architect at Novolyze",
     "github": null,
-    "photo": "docs/speakers/ivan-mitic.jpg",
+    "photo": "../_static/img/speakers/ivan-mitic.jpg",
     "id": 34,
     "contact_info": {}
   },
@@ -422,7 +422,7 @@
       "email": "bence@underyx.me"
     },
     "github": "https://github.com/underyx",
-    "photo": "docs/speakers/bence-nagy.jpg",
+    "photo": "../_static/img/speakers/bence-nagy.jpg",
     "id": 36
   },
   {
@@ -431,7 +431,7 @@
     "description": "Senior Software Engineer | Python | MDE, SLE | Code generation specialist",
     "contact_info": {},
     "github": "https://github.com/alensuljkanovic",
-    "photo": "docs/speakers/alen-suljkanovic.jpg",
+    "photo": "../_static/img/speakers/alen-suljkanovic.jpg",
     "id": 37
   },
   {
@@ -449,7 +449,7 @@
       ]
     },
     "github": "https://github.com/RadoRado/",
-    "photo": "docs/speakers/radoslav-georgiev-hacksoft.jpg",
+    "photo": "../_static/img/speakers/radoslav-georgiev-hacksoft.jpg",
     "id": 38
   },
   {
@@ -460,7 +460,7 @@
       "email": "alexviscreanu@gmail.com"
     },
     "github": "https://github.com/aexvir",
-    "photo": "docs/speakers/alex-viscreanu.jpg",
+    "photo": "../_static/img/speakers/alex-viscreanu.jpg",
     "id": 39
   },
   {
@@ -477,7 +477,7 @@
       ]
     },
     "github": "https://github.com/TinMarkovic",
-    "photo": "docs/speakers/tin-markovic.jpg",
+    "photo": "../_static/img/speakers/tin-markovic.jpg",
     "id": 40
   },
   {
@@ -513,7 +513,7 @@
     "description": "VP of AI Platform at Everseen, Implementing AI in commerce, Computer Vision and MLOps at scale",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/milos-popovic.jpg",
+    "photo": "../_static/img/speakers/milos-popovic.jpg",
     "id": 44
   },
   {
@@ -522,7 +522,7 @@
     "description": "Head of Data and Innovation at Things Solver",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/valentina-dordevic.jpg",
+    "photo": "../_static/img/speakers/valentina-dordevic.jpg",
     "id": 45
   },
   {
@@ -533,7 +533,7 @@
       "email": "martin.angelov@hacksoft.io"
     },
     "github": "https://github.com/martin056",
-    "photo": "docs/speakers/martin-angelov.jpg",
+    "photo": "../_static/img/speakers/martin-angelov.jpg",
     "id": 46
   },
   {
@@ -560,7 +560,7 @@
     "description": "Senior Software Engineer at GenAI",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/viktor-kerkez.jpg",
+    "photo": "../_static/img/speakers/viktor-kerkez.jpg",
     "id": 49
   },
   {
@@ -571,7 +571,7 @@
       "twitter": "RankoTrifkovic"
     },
     "github": null,
-    "photo": "docs/speakers/ranko-trifkovic.jpg",
+    "photo": "../_static/img/speakers/ranko-trifkovic.jpg",
     "id": 50
   },
   {
@@ -588,7 +588,7 @@
     "linkedin": "https://www.linkedin.com/in/altfuture/",
     "description": "Founder, CEO & Product Designer at Altfuture",
     "github": null,
-    "photo": "docs/speakers/slobodan-stevic.jpg",
+    "photo": "../_static/img/speakers/slobodan-stevic.jpg",
     "id": 52,
     "contact_info": {}
   },
@@ -634,7 +634,7 @@
     "description": "Engineering Manager at Seekandhit",
     "contact_info": {},
     "github": null,
-    "photo": "docs/speakers/ante-aljinovic.jpg",
+    "photo": "../_static/img/speakers/ante-aljinovic.jpg",
     "id": 57
   },
   {
@@ -643,7 +643,7 @@
     "linkedin": "https://www.linkedin.com/in/nikita-borgolov/",
     "description": "Senior Rust developer | Binarly | Currently at Belgrade 🏙️",
     "contact_info": {},
-    "photo": "docs/speakers/nikita-borgolov.jpg",
+    "photo": "../_static/img/speakers/nikita-borgolov.jpg",
     "github": "https://github.com/nikibor"
   },
   {
@@ -654,7 +654,7 @@
     "contact_info": {
       "twitter": "HonzaKral"
     },
-    "photo": "docs/speakers/honzakral.jpg",
+    "photo": "../_static/img/speakers/honzakral.jpg",
     "github": "https://github.com/HonzaKral"
   },
   {
@@ -663,7 +663,7 @@
     "linkedin": "https://www.linkedin.com/in/ivan-misic-553924a2/",
     "description": "Senior Python Software Engineer at Nortal",
     "contact_info": {},
-    "photo": "docs/speakers/ivan-misic.jpg",
+    "photo": "../_static/img/speakers/ivan-misic.jpg",
     "github": "https://github.com/ivanmisic"
   },
   {
@@ -672,7 +672,7 @@
     "linkedin": "https://www.linkedin.com/in/ji%C5%99%C3%AD-bene%C5%A1-507b1179/",
     "description": "Co-Founder & CTO at ManywaysApp",
     "contact_info": {},
-    "photo": "docs/speakers/jiri-benes.jpg",
+    "photo": "../_static/img/speakers/jiri-benes.jpg",
     "github": null
   },
   {
@@ -683,7 +683,7 @@
     "contact_info": {
       "twitter": "xorwen"
     },
-    "photo": "docs/speakers/ondrej-vesely.jpg",
+    "photo": "../_static/img/speakers/ondrej-vesely.jpg",
     "github": null
   },
   {
@@ -719,7 +719,7 @@
         }
       ]
     },
-    "photo": "docs/speakers/martin-polednik.jpg",
+    "photo": "../_static/img/speakers/martin-polednik.jpg",
     "github": "https://github.com/mpolednik"
   }
 ]
