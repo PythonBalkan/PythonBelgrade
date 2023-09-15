@@ -2,6 +2,8 @@ Milan Suk
 =================
 Senior Software Engineer at Kiwi.com
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/milan-suk/>`_
 
 - https://github.com/sukovanej
@@ -13,6 +15,7 @@ Senior Software Engineer at Kiwi.com
 
 
 
-Talks:
- :ref:`meetup_29`
+Talks on meetups:
+
+- :ref:`meetup_29`
 

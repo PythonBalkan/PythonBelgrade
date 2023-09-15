@@ -2,6 +2,8 @@ Milos Milovanovic
 =================
 Director of Delivery and Customer Success at Things Solver
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/milovanovicmilos/>`_
 
 
@@ -11,6 +13,7 @@ Director of Delivery and Customer Success at Things Solver
 
 
 
-Talks:
- :ref:`meetup_3`
+Talks on meetups:
+
+- :ref:`meetup_3`
 

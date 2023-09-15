@@ -2,6 +2,8 @@ Alen Suljkanovc
 =================
 Senior Software Engineer | Python | MDE, SLE | Code generation specialist
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/alen-suljkanovic/>`_
 
 - https://github.com/alensuljkanovic
@@ -13,6 +15,7 @@ Senior Software Engineer | Python | MDE, SLE | Code generation specialist
 
 
 
-Talks:
- :ref:`meetup_23`
+Talks on meetups:
+
+- :ref:`meetup_23`
 

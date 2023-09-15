@@ -2,6 +2,8 @@ Robert van Geel
 =================
 CEO at dotData.nl
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/ramvangeel/>`_
 
 - robert@dotdata.nl
@@ -14,6 +16,7 @@ CEO at dotData.nl
 
 
 
-Talks:
- :ref:`meetup_5`
+Talks on meetups:
+
+- :ref:`meetup_5`
 

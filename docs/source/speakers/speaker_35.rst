@@ -1,8 +1,11 @@
 Djordje Jovic
 =================
-None
 
 
-Talks:
- :ref:`meetup_24`
+
+
+
+Talks on meetups:
+
+- :ref:`meetup_24`
 

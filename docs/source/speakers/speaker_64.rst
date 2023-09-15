@@ -2,6 +2,8 @@ Martin Polednik
 =================
 Building the technology behind JustWatch
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/martin-polednik-8a341866>`_
 
 - https://github.com/mpolednik
@@ -16,6 +18,7 @@ Building the technology behind JustWatch
 
 
 
-Talks:
- :ref:`meetup_4`
+Talks on meetups:
+
+- :ref:`meetup_4`
 

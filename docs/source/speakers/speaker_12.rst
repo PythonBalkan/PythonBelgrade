@@ -2,6 +2,8 @@ Max Polezhaev
 =================
 Software Engineer at Kiwi
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/max-polezhaev/>`_
 
 
@@ -11,8 +13,9 @@ Software Engineer at Kiwi
 
 
 
-Talks:
- :ref:`meetup_43`
- :ref:`meetup_35`
- :ref:`meetup_31`
+Talks on meetups:
+
+- :ref:`meetup_43`
+- :ref:`meetup_35`
+- :ref:`meetup_31`
 

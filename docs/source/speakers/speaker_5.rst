@@ -2,6 +2,8 @@ Marko Aleksendrić
 =================
 Data Analyst | Author | Scientist | Web Developer
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/aleksendric/>`_
 
 
@@ -11,6 +13,7 @@ Data Analyst | Author | Scientist | Web Developer
 
 
 
-Talks:
- :ref:`meetup_38`
+Talks on meetups:
+
+- :ref:`meetup_38`
 

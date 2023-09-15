@@ -2,6 +2,8 @@ Jožko Škrablin
 =================
 DevOps
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/jozko-skrablin-75588757/>`_
 
 
@@ -11,6 +13,7 @@ DevOps
 
 
 
-Talks:
- :ref:`meetup_9`
+Talks on meetups:
+
+- :ref:`meetup_9`
 

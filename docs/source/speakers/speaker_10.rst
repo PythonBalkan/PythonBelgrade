@@ -2,6 +2,8 @@ Aleksa Terzic
 =================
 Backend Engineer at Flatfox AG
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/aleksa-terzic>`_
 
 - terzicaleksa5@gmail.com
@@ -14,6 +16,7 @@ Backend Engineer at Flatfox AG
 
 
 
-Talks:
- :ref:`meetup_32`
+Talks on meetups:
+
+- :ref:`meetup_32`
 

@@ -2,6 +2,8 @@ Bence Nagy
 =================
 Senior Software Engineer at Semgrep
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/underyx>`_
 
 - https://github.com/underyx
@@ -16,6 +18,7 @@ Senior Software Engineer at Semgrep
 
 
 
-Talks:
- :ref:`meetup_23`
+Talks on meetups:
+
+- :ref:`meetup_23`
 

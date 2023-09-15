@@ -1,8 +1,11 @@
 Krzysztof Zuraw
 =================
-None
 
 
-Talks:
- :ref:`meetup_15`
+
+
+
+Talks on meetups:
+
+- :ref:`meetup_15`
 

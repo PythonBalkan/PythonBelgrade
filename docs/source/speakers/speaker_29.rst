@@ -2,6 +2,8 @@ Stefan Vujovic
 =================
 Senior Data Scientist @ Growth Marketing Automation
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/stefanvujovic/>`_
 
 
@@ -11,5 +13,4 @@ Senior Data Scientist @ Growth Marketing Automation
 
 
 
-Talks:
 

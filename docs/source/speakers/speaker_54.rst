@@ -3,6 +3,9 @@ Mike Mac
 Data Analyst
 
 
-Talks:
- :ref:`meetup_7`
+
+
+Talks on meetups:
+
+- :ref:`meetup_7`
 

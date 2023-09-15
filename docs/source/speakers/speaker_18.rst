@@ -2,9 +2,12 @@ Thomas Levine
 =================
 
 
+
+
 - https://github.com/tlevine
 
 
-Talks:
- :ref:`meetup_10`
+Talks on meetups:
+
+- :ref:`meetup_10`
 

@@ -2,6 +2,8 @@ Jozef Kepesi
 =================
 CA, Kiwi.com
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/jozefkepesi/>`_
 
 
@@ -11,7 +13,8 @@ CA, Kiwi.com
 
 
 
-Talks:
- :ref:`meetup_8`
- :ref:`meetup_4`
+Talks on meetups:
+
+- :ref:`meetup_8`
+- :ref:`meetup_4`
 

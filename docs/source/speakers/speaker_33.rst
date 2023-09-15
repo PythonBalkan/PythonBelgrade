@@ -1,8 +1,11 @@
 Nikola Pavlicevic
 =================
-None
 
 
-Talks:
- :ref:`meetup_31`
+
+
+
+Talks on meetups:
+
+- :ref:`meetup_31`
 

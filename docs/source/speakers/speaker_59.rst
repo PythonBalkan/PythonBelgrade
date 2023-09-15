@@ -2,6 +2,8 @@ Honza Kral
 =================
 Platform Engineer at Pace Revenue
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/honzakral/>`_
 
 - https://github.com/HonzaKral
@@ -13,6 +15,7 @@ Platform Engineer at Pace Revenue
 
 
 
-Talks:
- :ref:`meetup_25`
+Talks on meetups:
+
+- :ref:`meetup_25`
 

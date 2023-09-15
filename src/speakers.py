@@ -1,4 +1,4 @@
-from typing import Generator
+from typing import Generator, List
 
 from src.loading import get_meetups
 from src.const import RSTContent, SpeakerData
@@ -18,12 +18,15 @@ PHOTO_RST_TEMPLATE = """
 """
 
 
-def get_speakers_meetups(speaker_id: int) -> Generator[int, None, None]:
+def get_speakers_meetups(speaker_id: int) -> List[int]:
     meetups = get_meetups()
+    meetup_ids = []
     for meetup in meetups:
         for talk in meetup["talks"]:
-            if talk["speakers"][0] == speaker_id:
-                yield meetup["id"]
+            if speaker_id in talk["speakers"]:
+                meetup_ids.append(meetup["id"])
+
+    return meetup_ids
 
 
 def generate_speaker_rst(speaker: SpeakerData) -> RSTContent:
@@ -46,7 +49,7 @@ def generate_speaker_rst(speaker: SpeakerData) -> RSTContent:
     rst_content = SPEAKER_RST_TEMPLATE.format(
         id=speaker["id"],
         title=speaker["name"],
-        description=speaker["description"],
+        description=(speaker.get("description") or "") + "\n\n",
         linkedin=linkedin,
         github=github,
         email=email,
@@ -55,9 +58,9 @@ def generate_speaker_rst(speaker: SpeakerData) -> RSTContent:
 
     meetups = get_speakers_meetups(speaker["id"])
     if meetups:
-        rst_content += "Talks:\n"
+        rst_content += "Talks on meetups:\n\n"
         for meetup_id in meetups:
-            rst_content += f" :ref:`meetup_{meetup_id}`\n"
+            rst_content += f"- :ref:`meetup_{meetup_id}`\n"
 
     rst_content += "\n"
     return rst_content

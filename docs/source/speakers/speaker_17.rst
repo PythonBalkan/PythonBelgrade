@@ -2,6 +2,8 @@ Vuksan Simunović
 =================
 CEO & Co-Founder at Trapesys | Founder In Residence at Attic42
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/vuksansimunovic/>`_
 
 
@@ -11,6 +13,7 @@ CEO & Co-Founder at Trapesys | Founder In Residence at Attic42
 
 
 
-Talks:
- :ref:`meetup_12`
+Talks on meetups:
+
+- :ref:`meetup_12`
 

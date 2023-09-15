@@ -2,6 +2,8 @@ Aleksandr Sulimov
 =================
 Python Developer @ kiwi.com
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/aleksul/>`_
 
 
@@ -11,6 +13,7 @@ Python Developer @ kiwi.com
 
 
 
-Talks:
- :ref:`meetup_36`
+Talks on meetups:
+
+- :ref:`meetup_36`
 

@@ -2,6 +2,8 @@ Mislav Cimperšak
 =================
 Director Of Engineering at Gencove
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/mislavcimpersak/>`_
 
 - https://github.com/mislavcimpersak/
@@ -13,6 +15,7 @@ Director Of Engineering at Gencove
 
 
 
-Talks:
- :ref:`meetup_12`
+Talks on meetups:
+
+- :ref:`meetup_12`
 

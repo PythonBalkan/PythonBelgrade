@@ -2,6 +2,8 @@ Pavel Sviridov
 =================
 Senior Backend Developer / Team Leader
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/svipy/>`_
 
 
@@ -11,6 +13,7 @@ Senior Backend Developer / Team Leader
 
 
 
-Talks:
- :ref:`meetup_43`
+Talks on meetups:
+
+- :ref:`meetup_43`
 

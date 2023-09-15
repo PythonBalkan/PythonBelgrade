@@ -2,6 +2,8 @@ Tin Marković
 =================
 Senior Software Engineering Consultant @ NBA && @ Adiuvat
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/tin-markovic/>`_
 
 - https://github.com/TinMarkovic
@@ -16,6 +18,7 @@ Senior Software Engineering Consultant @ NBA && @ Adiuvat
 
 
 
-Talks:
- :ref:`meetup_20`
+Talks on meetups:
+
+- :ref:`meetup_20`
 

@@ -2,6 +2,8 @@ Bojan Matic
 =================
 Software Engineer & Tech Executive
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/bojan-mati%C4%87-723920b/>`_
 
 
@@ -11,6 +13,7 @@ Software Engineer & Tech Executive
 
 
 
-Talks:
- :ref:`meetup_2`
+Talks on meetups:
+
+- :ref:`meetup_2`
 

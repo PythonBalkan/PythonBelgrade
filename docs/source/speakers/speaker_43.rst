@@ -1,8 +1,11 @@
 Nemanja Mićović
 =================
-None
 
 
-Talks:
- :ref:`meetup_18`
+
+
+
+Talks on meetups:
+
+- :ref:`meetup_18`
 

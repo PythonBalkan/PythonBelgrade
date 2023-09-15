@@ -2,6 +2,8 @@ Alex Viscreanu
 =================
 Go developer at Kiwi.com
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/alexviscreanu/>`_
 
 - https://github.com/aexvir
@@ -16,6 +18,7 @@ Go developer at Kiwi.com
 
 
 
-Talks:
- :ref:`meetup_20`
+Talks on meetups:
+
+- :ref:`meetup_20`
 

@@ -2,6 +2,8 @@ Milan Stanojević
 =================
 Software Engineer
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/milan-stanojevic/>`_
 
 
@@ -11,7 +13,8 @@ Software Engineer
 
 
 
-Talks:
- :ref:`meetup_8`
- :ref:`meetup_2`
+Talks on meetups:
+
+- :ref:`meetup_8`
+- :ref:`meetup_2`
 

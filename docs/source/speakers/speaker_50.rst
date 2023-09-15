@@ -2,6 +2,8 @@ Ranko Trifković
 =================
 Narrative Architect/ Healer of Broken Stories / Narrative Design Mentor and Coach
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/ranko-trifkovic-42b9503/>`_
 
 
@@ -11,6 +13,7 @@ Narrative Architect/ Healer of Broken Stories / Narrative Design Mentor and Coac
 
 
 
-Talks:
- :ref:`meetup_14`
+Talks on meetups:
+
+- :ref:`meetup_14`
 

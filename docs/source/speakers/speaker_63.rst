@@ -1,6 +1,8 @@
 Tomas Mikulec
 =================
-None
+
+
+
 
 - https://github.com/pulecz
 
@@ -8,6 +10,7 @@ None
 
 
 
-Talks:
- :ref:`meetup_4`
+Talks on meetups:
+
+- :ref:`meetup_4`
 

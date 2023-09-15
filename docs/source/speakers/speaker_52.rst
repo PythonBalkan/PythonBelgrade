@@ -2,6 +2,8 @@ Slobodan Stević
 =================
 Founder, CEO & Product Designer at Altfuture
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/altfuture/>`_
 
 
@@ -11,6 +13,7 @@ Founder, CEO & Product Designer at Altfuture
 
 
 
-Talks:
- :ref:`meetup_14`
+Talks on meetups:
+
+- :ref:`meetup_14`
 

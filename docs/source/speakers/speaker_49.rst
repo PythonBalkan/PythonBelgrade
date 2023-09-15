@@ -2,6 +2,8 @@ Viktor Kerkez
 =================
 Senior Software Engineer at GenAI
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/viktor-kerkez-a9a1b31a/>`_
 
 
@@ -11,6 +13,7 @@ Senior Software Engineer at GenAI
 
 
 
-Talks:
- :ref:`meetup_17`
+Talks on meetups:
+
+- :ref:`meetup_17`
 

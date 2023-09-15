@@ -2,6 +2,8 @@ Zeljko Milojevic
 =================
 Python Training Specialist / Software Developer
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/zeljko-milojevic-ba6a50149/>`_
 
 
@@ -11,7 +13,8 @@ Python Training Specialist / Software Developer
 
 
 
-Talks:
- :ref:`meetup_6`
- :ref:`meetup_2`
+Talks on meetups:
+
+- :ref:`meetup_6`
+- :ref:`meetup_2`
 

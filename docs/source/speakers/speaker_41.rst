@@ -3,6 +3,9 @@ Uroš Pajić
 Software Engineer at Kortechs
 
 
-Talks:
- :ref:`meetup_20`
+
+
+Talks on meetups:
+
+- :ref:`meetup_20`
 

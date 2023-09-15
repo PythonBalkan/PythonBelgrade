@@ -2,6 +2,8 @@ Evgeniy Moiseev
 =================
 Senior Python developer at Unifonic
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/evgeniy-moiseev-994177122/>`_
 
 
@@ -11,6 +13,7 @@ Senior Python developer at Unifonic
 
 
 
-Talks:
- :ref:`meetup_36`
+Talks on meetups:
+
+- :ref:`meetup_36`
 

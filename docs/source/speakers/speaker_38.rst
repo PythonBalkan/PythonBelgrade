@@ -2,6 +2,8 @@ Radoslav Georgiev
 =================
 CEO & Founder at HackSoft
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/radoslav-georgiev-hacksoft/>`_
 
 - https://github.com/RadoRado/
@@ -16,6 +18,7 @@ CEO & Founder at HackSoft
 
 
 
-Talks:
- :ref:`meetup_22`
+Talks on meetups:
+
+- :ref:`meetup_22`
 

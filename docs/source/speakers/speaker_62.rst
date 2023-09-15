@@ -2,6 +2,8 @@ Ondrej Vesely
 =================
 Developer, data engineer, entrepreneur
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/ondrej-vesely/>`_
 
 
@@ -11,6 +13,7 @@ Developer, data engineer, entrepreneur
 
 
 
-Talks:
- :ref:`meetup_4`
+Talks on meetups:
+
+- :ref:`meetup_4`
 

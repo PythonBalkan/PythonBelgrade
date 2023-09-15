@@ -1,8 +1,11 @@
 Nenad Jovic
 =================
-None
 
 
-Talks:
- :ref:`meetup_7`
+
+
+
+Talks on meetups:
+
+- :ref:`meetup_7`
 

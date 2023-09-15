@@ -2,6 +2,8 @@ Darko Ronić
 =================
 Staff Engineer, SRE at Zapier
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/darkoronic/>`_
 
 
@@ -11,6 +13,7 @@ Staff Engineer, SRE at Zapier
 
 
 
-Talks:
- :ref:`meetup_12`
+Talks on meetups:
+
+- :ref:`meetup_12`
 

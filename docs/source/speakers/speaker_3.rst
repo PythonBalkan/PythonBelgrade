@@ -2,6 +2,8 @@ Maria Mozgunova
 =================
 Python Developer @ Kortechs
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/mariamozgunova/>`_
 
 - https://github.com/MariaMozgunova
@@ -16,5 +18,7 @@ Python Developer @ Kortechs
 
 
 
-Talks:
+Talks on meetups:
+
+- :ref:`meetup_41`
 

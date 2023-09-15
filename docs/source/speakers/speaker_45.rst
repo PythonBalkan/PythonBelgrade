@@ -2,6 +2,8 @@ Valentina Đorđević
 =================
 Head of Data and Innovation at Things Solver
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/valentina-%C4%91or%C4%91evi%C4%87/>`_
 
 
@@ -11,5 +13,7 @@ Head of Data and Innovation at Things Solver
 
 
 
-Talks:
+Talks on meetups:
+
+- :ref:`meetup_16`
 

@@ -2,6 +2,8 @@ Dejan Mijić
 =================
 Lead Engineer at LiveIntent, Inc.
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/mijicd/>`_
 
 
@@ -11,5 +13,7 @@ Lead Engineer at LiveIntent, Inc.
 
 
 
-Talks:
+Talks on meetups:
+
+- :ref:`meetup_9`
 

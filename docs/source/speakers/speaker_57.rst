@@ -2,6 +2,8 @@ Ante Aljinovic
 =================
 Engineering Manager at Seekandhit
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/antealjinovic/>`_
 
 
@@ -11,6 +13,7 @@ Engineering Manager at Seekandhit
 
 
 
-Talks:
- :ref:`meetup_17`
+Talks on meetups:
+
+- :ref:`meetup_17`
 

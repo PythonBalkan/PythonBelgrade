@@ -2,6 +2,8 @@
 =================
 Software Engineering Team Lead @EnergySage
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/zeljko-kojic-05249490/>`_
 
 
@@ -11,7 +13,8 @@ Software Engineering Team Lead @EnergySage
 
 
 
-Talks:
- :ref:`meetup_10`
- :ref:`meetup_2`
+Talks on meetups:
+
+- :ref:`meetup_10`
+- :ref:`meetup_2`
 

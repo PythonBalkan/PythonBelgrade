@@ -2,6 +2,8 @@ Petar Nikolovski
 =================
 SRE Engineer at United.Cloud
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/petar-nikolovski/>`_
 
 - https://github.com/petar-nikolovski
@@ -16,7 +18,8 @@ SRE Engineer at United.Cloud
 
 
 
-Talks:
- :ref:`meetup_32`
- :ref:`meetup_25`
+Talks on meetups:
+
+- :ref:`meetup_32`
+- :ref:`meetup_25`
 

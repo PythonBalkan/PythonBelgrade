@@ -2,6 +2,8 @@ Alexander Todorov
 =================
 Founder Kiwi TCMS - open source test management
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/alextodorov/>`_
 
 - https://github.com/atodorov
@@ -13,7 +15,8 @@ Founder Kiwi TCMS - open source test management
 
 
 
-Talks:
- :ref:`meetup_42`
- :ref:`meetup_30`
+Talks on meetups:
+
+- :ref:`meetup_42`
+- :ref:`meetup_30`
 

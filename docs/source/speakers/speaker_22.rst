@@ -2,6 +2,8 @@ Nebojša Mrkić
 =================
 Senior Software developer and Solution architect
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/nebojsa-mrkic-08640437/>`_
 
 
@@ -11,6 +13,7 @@ Senior Software developer and Solution architect
 
 
 
-Talks:
- :ref:`meetup_9`
+Talks on meetups:
+
+- :ref:`meetup_9`
 

@@ -2,6 +2,8 @@ Arina Medvedeva
 =================
 Front-end developer at kortechs.io
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/medvosa/>`_
 
 - https://github.com/medvosa
@@ -16,6 +18,7 @@ Front-end developer at kortechs.io
 
 
 
-Talks:
- :ref:`meetup_41`
+Talks on meetups:
+
+- :ref:`meetup_41`
 

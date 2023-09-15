@@ -2,6 +2,8 @@ Ivan Misic
 =================
 Senior Python Software Engineer at Nortal
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/ivan-misic-553924a2/>`_
 
 - https://github.com/ivanmisic
@@ -13,5 +15,7 @@ Senior Python Software Engineer at Nortal
 
 
 
-Talks:
+Talks on meetups:
+
+- :ref:`meetup_25`
 

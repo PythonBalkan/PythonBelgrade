@@ -2,6 +2,8 @@ Nikita Borgolov
 =================
 Senior Rust developer | Binarly | Currently at Belgrade 🏙️
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://www.linkedin.com/in/nikita-borgolov/>`_
 
 - https://github.com/nikibor
@@ -13,6 +15,7 @@ Senior Rust developer | Binarly | Currently at Belgrade 🏙️
 
 
 
-Talks:
- :ref:`meetup_45`
+Talks on meetups:
+
+- :ref:`meetup_45`
 

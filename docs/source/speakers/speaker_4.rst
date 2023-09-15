@@ -2,6 +2,8 @@ Alexander Hendorf
 =================
 Head of Data & AI @ KÖNIGSWEG 📍 Python Software Foundation Fellow 📍 PyData 📍 Python SV Chair
 
+
+
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/hendorf/>`_
 
 
@@ -11,6 +13,7 @@ Head of Data & AI @ KÖNIGSWEG 📍 Python Software Foundation Fellow 📍 PyDat
 
 
 
-Talks:
- :ref:`meetup_40`
+Talks on meetups:
+
+- :ref:`meetup_40`
 
