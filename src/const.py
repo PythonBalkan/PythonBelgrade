@@ -1,5 +1,5 @@
-from enum import StrEnum
-from typing import TypedDict
+from enum import Enum
+from typing import Dict, List, Optional, TypedDict
 
 
 JSON_DATA_DIR = "docs/source/json-data"
@@ -7,7 +7,7 @@ MEETUPS_DIR = "docs/source/meetups"
 SPEAKERS_DIR = "docs/source/speakers"
 
 
-class JSONType(StrEnum):
+class JSONType(str, Enum):
     MEETUPS = "meetups"
     SPEAKERS = "speakers"
 
@@ -15,11 +15,11 @@ class JSONType(StrEnum):
 class SpeakerData(TypedDict):
     id: int
     name: str
-    linkedin: str | None
-    github: str | None
-    description: str | None
-    contact_info: dict[str, str]
-    photo: str | None
+    linkedin: Optional[str]
+    github: Optional[str]
+    description: Optional[str]
+    contact_info: Dict[str, str]
+    photo: Optional[str]
 
 
 class LocationData(TypedDict):
@@ -35,8 +35,8 @@ class TalkReferenceData(TypedDict):
 class TalkData(TypedDict):
     title: str
     abstract: str
-    speakers: list[int]
-    references: list[TalkReferenceData]
+    speakers: List[int]
+    references: List[TalkReferenceData]
 
 
 class LightningTalkData(TypedDict):
@@ -49,9 +49,9 @@ class MeetupData(TypedDict):
     title: str
     location: LocationData
     start: str
-    talks: list[TalkData]
-    youtube: str | None
-    lightning_talks: list[LightningTalkData]
+    talks: List[TalkData]
+    youtube: Optional[str]
+    lightning_talks: List[LightningTalkData]
 
 
 RSTContent = str

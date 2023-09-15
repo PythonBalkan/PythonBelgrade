@@ -15,8 +15,8 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.11"
-sphinx = "^7.2.5"
+python = "^3.8"
+sphinx = "^7.1.2"
 sphinxcontrib-youtube = "^1.2.0"
 sphinxcontrib-images = "^0.9.4"
 pydata-sphinx-theme = "^0.13.3"

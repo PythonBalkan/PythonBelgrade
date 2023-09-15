@@ -1,9 +1,10 @@
 import json
+from typing import List
 
 from src.const import JSON_DATA_DIR, JSONType, MeetupData, SpeakerData
 
 
-def get_json_objects(type_: JSONType, *ids) -> list:
+def get_json_objects(type_: JSONType, *ids) -> List:
     with open(f"{JSON_DATA_DIR}/{type_}.json", "r") as file:
         data = json.load(file)
 
@@ -13,9 +14,9 @@ def get_json_objects(type_: JSONType, *ids) -> list:
     return [instance for instance in data if instance["id"] in ids]
 
 
-def get_meetups(*ids) -> list[MeetupData]:
+def get_meetups(*ids) -> List[MeetupData]:
     return get_json_objects(JSONType.MEETUPS, *ids)
 
 
-def get_speakers(*ids) -> list[SpeakerData]:
+def get_speakers(*ids) -> List[SpeakerData]:
     return get_json_objects(JSONType.SPEAKERS, *ids)
