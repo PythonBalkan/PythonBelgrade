@@ -69,15 +69,9 @@ Absolutely nothing at all! All you need is good will to connect with people and 
 Only reason why you may want to bring a laptop would be if you are planning to give lightning talk and you wish to flex with live coding.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Previous meetups:
+   :maxdepth: 1
 
    meetups/index
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Speakers:
-
    speakers/index
 
 .. toctree::

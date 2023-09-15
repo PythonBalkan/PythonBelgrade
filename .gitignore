@@ -8,3 +8,4 @@ build/
 .venv
 .DS_Store
 __pycache__
+.python-version
