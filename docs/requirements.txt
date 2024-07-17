@@ -3,3 +3,4 @@ pydata-sphinx-theme==0.13.3
 sphinxcontrib-youtube==1.2.0
 sphinxcontrib-images==0.9.4
 sphinx-icon==0.2.2
+shibuya==2024.7.13
