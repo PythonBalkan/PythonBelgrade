@@ -57,7 +57,7 @@ Thoughts on DDD in Django Projects
 - Abstract:
 Max Polezhaev will share insights on combining Django and DDD in this complementary talk. Drawing from personal experiences, Max will discuss the challenges, limitations, and unique characteristics of Django that impact DDD implementation.
 
-The talk will discuss concrete problems and conclusions on Django's efficient usage and alternative solutions. Max will compare Django with other frameworks in DDD implementation and share real-world experiences from a Kiwi.com team.
+The talk will discuss concrete problems and conclusions on Django's efficient usage and alternative solutions. Max will compare Django with other frameworks in DDD implementation and share real-world experiences.
 
 Takeaways: Attendees of this talk can expect to:
 
@@ -69,5 +69,5 @@ Discover effective utilization of Django in various project types and areas.
 
 Gain insights into alternative frameworks for DDD implementation.
 
-Understand real-world experiences of adopting DDD in a Django project at Kiwi.com.
+Understand real-world experiences of adopting DDD in a Django project.
 
