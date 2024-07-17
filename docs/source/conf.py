@@ -20,7 +20,7 @@ from sphinx.application import Sphinx
 # -- Project information -----------------------------------------------------
 
 project = "Python Belgrade"
-copyright = "2023, Python Belgrade"
+copyright = "2024, Python Belgrade"
 author = "Python Belgrade"
 
 
@@ -52,7 +52,7 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "pydata_sphinx_theme"
+html_theme = "shibuya"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -60,7 +60,6 @@ html_theme = "pydata_sphinx_theme"
 html_static_path = ["_static"]
 html_logo = "_static/img/logo-python-belgrade.png"
 html_favicon = "_static/img/favicon.png"
-
 
 with open("json-data/meetups.json") as file:
     meetups = json.load(file)
@@ -73,6 +72,48 @@ html_context = {
     "speakers": speakers,
 }
 
+html_theme_options = {
+    "page_layout": "simple",
+    "github_url": "https://github.com/pythonbalkan/pythonbelgrade",
+    "linkedin_url": "https://www.linkedin.com/company/python-belgrade",
+    # "telegram_url": "https://t.me/python_belgrade",
+    "nav_links": [
+        {
+            "title": "Meetups",
+            "url": "meetups/index",
+        },
+        {
+            "title": "Speakers",
+            "url": "speakers/index",
+        },
+        {
+            "title": "Membership",
+            "url": "membership/index",
+        },
+        {
+            "title": "Sponsorship",
+            "url": "sponsorship/index",
+        },
+        {
+            "title": "Social",
+            "children": [
+                {
+                    "title": "Telegram",
+                    "url": "membership/telegram",
+                },
+                {
+                    "title": "Meetup",
+                    "url": "https://meetup.com/pythonbelgrade/",
+                },
+                {
+                    "title": "Facebook",
+                    "url": "https://www.facebook.com/python.belgrade/",
+                },
+            ],
+        },
+    ],
+}
+
 
 def more_context(app: Sphinx, docname: str, source: list) -> None:
     """
@@ -82,7 +123,9 @@ def more_context(app: Sphinx, docname: str, source: list) -> None:
     if app.builder.format != "html":
         return
     src = source[0]
-    rendered = app.builder.templates.render_string(src, {**app.config.html_context, **html_context})
+    rendered = app.builder.templates.render_string(
+        src, {**app.config.html_context, **html_context}
+    )
     source[0] = rendered
 
 

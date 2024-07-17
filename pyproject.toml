@@ -21,6 +21,7 @@ sphinxcontrib-youtube = "^1.2.0"
 sphinxcontrib-images = "^0.9.4"
 pydata-sphinx-theme = "^0.13.3"
 sphinx-icon = "^0.2.2"
+shibuya = "^2024.7.13"
 
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^3.4.0"

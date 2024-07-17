@@ -5,7 +5,7 @@ Hi, you can browse info about previous meetups here.
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    {% for meetup in meetups %}
