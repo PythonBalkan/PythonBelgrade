@@ -14,6 +14,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 import json
+import os
 
 from sphinx.application import Sphinx
 
@@ -60,6 +61,7 @@ html_theme = "shibuya"
 html_static_path = ["_static"]
 html_logo = "_static/img/logo-python-belgrade.png"
 html_favicon = "_static/img/favicon.png"
+html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "")
 
 with open("json-data/meetups.json") as file:
     meetups = json.load(file)
@@ -71,6 +73,9 @@ html_context = {
     "meetups": meetups,
     "speakers": speakers,
 }
+
+if os.environ.get("READTHEDOCS", "") == "True":
+    html_context["READTHEDOCS"] = True
 
 html_theme_options = {
     "page_layout": "simple",
@@ -123,9 +128,7 @@ def more_context(app: Sphinx, docname: str, source: list) -> None:
     if app.builder.format != "html":
         return
     src = source[0]
-    rendered = app.builder.templates.render_string(
-        src, {**app.config.html_context, **html_context}
-    )
+    rendered = app.builder.templates.render_string(src, {**app.config.html_context, **html_context})
     source[0] = rendered
 
 
