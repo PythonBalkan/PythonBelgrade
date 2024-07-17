@@ -81,7 +81,6 @@ html_theme_options = {
     "page_layout": "simple",
     "github_url": "https://github.com/pythonbalkan/pythonbelgrade",
     "linkedin_url": "https://www.linkedin.com/company/python-belgrade",
-    # "telegram_url": "https://t.me/python_belgrade",
     "nav_links": [
         {
             "title": "Meetups",
