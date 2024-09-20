@@ -721,5 +721,26 @@
     },
     "photo": "../_static/img/speakers/martin-polednik.jpg",
     "github": "https://github.com/mpolednik"
+  },
+  {
+    "name": "Nikolai Sviridov",
+    "linkedin": "https://linkedin.com/in/luchanos",
+    "description": "Developer Advocate at ITism",
+    "contact_info": {
+      "Telegram": "https://t.me/luchanos",
+      "websites": [
+        {
+          "name": "Youtube",
+          "link": "https://youtube.com/luchanos/"
+        },
+        {
+          "name": "Telegram channel",
+          "link": "https://youtube.com/balabol_it/"
+        }
+      ]
+    },
+    "github": "https://github.com/luchanos",
+    "photo": "../_static/img/speakers/nikolai-sviridov.jpg",
+    "id": 65
   }
 ]
