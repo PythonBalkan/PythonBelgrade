@@ -31,6 +31,7 @@ Members
 * Ana Ostojic
 * Milos Karajovic
 * Bojan Jovanovic
+* Nikolai Sviridov
 
 What is the program of the meetup ?
 ************************************
