@@ -742,5 +742,50 @@
     "github": "https://github.com/luchanos",
     "photo": "../_static/img/speakers/nikolai-sviridov.jpg",
     "id": 65
+  },
+  {
+    "id": 66,
+    "name": "Mikhail Bukhtoyarov",
+    "linkedin": null,
+    "description": "Associate Professor; computational linguistics, digital humanities, text analysis",
+    "contact_info": {},
+    "github": null,
+    "photo": null
+  },
+  {
+    "id": 67,
+    "name": "Stas Petrov",
+    "linkedin": null,
+    "description": "Marketing Mix Modeling specialist",
+    "contact_info": {},
+    "github": null,
+    "photo": null
+  },
+  {
+    "id": 68,
+    "name": "Vladimir Kukushkin",
+    "linkedin": null,
+    "description": "Senior Data Analyst at Simple App; Retentioneering",
+    "contact_info": {},
+    "github": null,
+    "photo": null
+  },
+  {
+    "id": 69,
+    "name": "Dory Zidon",
+    "linkedin": null,
+    "description": "Founding Engineer, Director of Europe at Martian; LLM Routers",
+    "contact_info": {},
+    "github": null,
+    "photo": null
+  },
+  {
+    "id": 70,
+    "name": "Oleg Osipov",
+    "linkedin": null,
+    "description": "Data Scientist at X5 Group; Reinforcement Learning",
+    "contact_info": {},
+    "github": null,
+    "photo": null
   }
 ]

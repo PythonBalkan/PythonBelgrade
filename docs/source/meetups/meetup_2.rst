@@ -16,7 +16,8 @@ asyncio
   ../speakers/speaker_27
 
 - Abstract:
-Milan will talk about the shiny new asynchronous event loop module, introduced in Python 3.4, set to tackle various implementations and bring them all under one roof and into the standard library.References:
+Milan will talk about the shiny new asynchronous event loop module, introduced in Python 3.4, set to tackle various implementations and bring them all under one roof and into the standard library.
+References:
 - `asyncio <https://docs.python.org/3/library/asyncio.html>`_
 
 Convert your Python script into executable Windows programs, able to run without requiring a Python installation.
@@ -26,7 +27,8 @@ Convert your Python script into executable Windows programs, able to run without
   ../speakers/speaker_20
 
 - Abstract:
-Zeljko will be giving a hands-on presentation of how you can package, deploy and execute your Python scripts all nicely packed-up in a Windows-executable binary file. He will also offer us some pros and cons as to when and why we should use this little handy toolkit.References:
+Zeljko will be giving a hands-on presentation of how you can package, deploy and execute your Python scripts all nicely packed-up in a Windows-executable binary file. He will also offer us some pros and cons as to when and why we should use this little handy toolkit.
+References:
 - `py2exe <http://www.py2exe.org/>`_
 
 A Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
@@ -36,7 +38,8 @@ A Python SQL toolkit and Object Relational Mapper that gives application develop
   ../speakers/speaker_31
 
 - Abstract:
-Bojan will provide us with insights into how to wrap up your applications to use Python’s popular ORM library to release some tension and not worry about databases and complex queries.References:
+Bojan will provide us with insights into how to wrap up your applications to use Python’s popular ORM library to release some tension and not worry about databases and complex queries.
+References:
 - `SQLAlchemy <http://www.sqlalchemy.org/>`_
 
 How I made a programming language in Serbian/Cyrilic in three days

@@ -16,7 +16,8 @@ Serverless technologies
   ../speakers/speaker_15
 
 - Abstract:
-Mislav Cimpersak will talk about Serverless technologies. He will present both positive and negative sides of Serverless technologies and he will also talk about the ways of applying Python on them. Mislav will provide us with code examples for better understanding and he will demonstrate how we can make great use of it.References:
+Mislav Cimpersak will talk about Serverless technologies. He will present both positive and negative sides of Serverless technologies and he will also talk about the ways of applying Python on them. Mislav will provide us with code examples for better understanding and he will demonstrate how we can make great use of it.
+References:
 - `Styria <https://www.styria.com/en/>`_
 
 Transferring Mobile Games to the Cloud with Python

@@ -1,5 +1,359 @@
 [
   {
+    "id": 70,
+    "title": "Python Belgrade #69 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2026-01-30 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 69,
+    "title": "Python Belgrade #68 :: Beers",
+    "location": {
+      "name": "Beersheep Beer Store | Balkanska 21, Beograd",
+      "url": "https://www.google.com/maps/search/Beersheep+Beer+Store+Balkanska+21+Beograd"
+    },
+    "start": "2025-12-26 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 68,
+    "title": "Python Belgrade #67 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2025-11-28 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 67,
+    "title": "Python Belgrade #66 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2025-10-31 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 66,
+    "title": "Python Belgrade #65 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2025-09-26 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 65,
+    "title": "Python Belgrade #64 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2025-08-29 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 64,
+    "title": "Python Belgrade #63 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2025-07-25 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 63,
+    "title": "Python Belgrade #62 :: Introduction to Reinforcement Learning",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2025-06-27 18:00",
+    "talks": [
+      {
+        "title": "Introduction to Reinforcement Learning with Python",
+        "speakers": [70],
+        "abstract": "An introduction to Reinforcement Learning concepts and practical implementation with Python.",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 62,
+    "title": "Python Belgrade #61 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2025-04-25 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 61,
+    "title": "Python Belgrade #60 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2025-03-28 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 60,
+    "title": "Python Belgrade #59 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2025-02-28 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 59,
+    "title": "Python Belgrade #58 :: The Text Analysis Meetup",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2025-01-31 18:00",
+    "talks": [
+      {
+        "title": "Text Analysis with Python, of course",
+        "speakers": [66],
+        "abstract": "An exploration of text analysis techniques using Python, covering computational linguistics and natural language processing approaches.",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 58,
+    "title": "Python Belgrade #57 :: User Behavior Analysis & LLM Routers",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2024-09-27 18:00",
+    "talks": [
+      {
+        "title": "Retentioneering: User Behavior Analysis",
+        "speakers": [68],
+        "abstract": "Introduction to Retentioneering — an open-source Python framework for user behavior analysis and product analytics.",
+        "references": []
+      },
+      {
+        "title": "LLM Routers",
+        "speakers": [69],
+        "abstract": "Exploring LLM routing strategies to optimize cost, latency, and quality when working with multiple large language models.",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 57,
+    "title": "Python Belgrade #56 :: Asyncio and Digital Humanities",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2024-09-06 18:00",
+    "talks": [
+      {
+        "title": "Asyncio: basics, mistakes, hints and tricks",
+        "speakers": [65],
+        "abstract": "A deep dive into Python's asyncio library covering the fundamentals, common pitfalls, and practical tips and tricks for writing efficient asynchronous code.",
+        "references": []
+      },
+      {
+        "title": "Python and the Digital Humanities: A Symbiotic Relationship",
+        "speakers": [66],
+        "abstract": "Exploring how Python has become an essential tool in digital humanities research, enabling new approaches to text analysis, data visualization, and computational linguistics.",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 56,
+    "title": "Python Belgrade #55 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2024-07-26 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 55,
+    "title": "Python Belgrade #54 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2024-06-28 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 54,
+    "title": "Python Belgrade #53 :: Mono Repo",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2024-05-31 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 53,
+    "title": "Python Belgrade #52 :: Marketing Mix Modeling",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2024-04-26 18:00",
+    "talks": [
+      {
+        "title": "Marketing Mix Modeling in Python",
+        "speakers": [67],
+        "abstract": "An introduction to Marketing Mix Modeling (MMM) using Python, covering how to measure the effectiveness of marketing campaigns and optimize budget allocation.",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 52,
+    "title": "Python Belgrade #51 :: Kubernetes is great and you don't need it",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2024-03-29 18:00",
+    "talks": [
+      {
+        "title": "Kubernetes is great and you don't need it",
+        "speakers": [51],
+        "abstract": "A critical look at Kubernetes adoption — when it makes sense, when it doesn't, and what simpler alternatives exist for most Python projects.",
+        "references": []
+      }
+    ],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 51,
+    "title": "Python Belgrade #50 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2024-02-23 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 50,
+    "title": "Python Belgrade #49 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2024-01-26 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 49,
+    "title": "Python Belgrade #48 :: Beers",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2023-12-29 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 48,
+    "title": "Python Belgrade #47 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2023-11-24 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 47,
+    "title": "Python Belgrade #46 :: A Python Meetup!",
+    "location": {
+      "name": "CDT Hub | Kneza Miloša 12, Beograd",
+      "url": "https://www.google.com/maps/search/CDT+Hub+Kneza+Milo%C5%A1a+12+Beograd"
+    },
+    "start": "2023-10-27 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
+    "id": 46,
+    "title": "Python Belgrade #45 :: A Python Meetup!",
+    "location": {
+      "name": "Koska Bar @ Dorcol platz",
+      "url": "https://goo.gl/maps/XMKztPThnz8yHTdC7"
+    },
+    "start": "2023-09-29 18:00",
+    "talks": [],
+    "youtube": null,
+    "lightning_talks": []
+  },
+  {
     "id": 45,
     "title": "Python Belgrade #44 :: The Rust to Python App event",
     "location": {
