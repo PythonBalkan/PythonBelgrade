@@ -1,4 +1,4 @@
-from typing import Generator, List
+from typing import List
 
 from src.loading import get_meetups
 from src.const import RSTContent, SpeakerData
@@ -23,7 +23,7 @@ def get_speakers_meetups(speaker_id: int) -> List[int]:
     meetup_ids = []
     for meetup in meetups:
         for talk in meetup["talks"]:
-            if speaker_id in talk["speakers"]:
+            if speaker_id in talk["speakers"] and meetup["id"] not in meetup_ids:
                 meetup_ids.append(meetup["id"])
 
     return meetup_ids

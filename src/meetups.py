@@ -40,7 +40,7 @@ def generate_meetup_rst(meetup: MeetupData) -> RSTContent:
     if talks := meetup.get("talks"):
         rst_content += "Talks:\n-----\n\n"
         for talk in talks:
-            rst_content += TALK_RST_TEMPLATE.format(title=talk.get("title" or "No title"))
+            rst_content += TALK_RST_TEMPLATE.format(title=talk.get("title") or "No title")
             rst_content += (
                 "\n".join(
                     [
@@ -55,7 +55,7 @@ def generate_meetup_rst(meetup: MeetupData) -> RSTContent:
                 rst_content += ABSTRACT_TEMPLATE.format(abstract=abstract)
 
             if references := talk.get("references"):
-                rst_content += "References:\n" + "\n".join(
+                rst_content += "\nReferences:\n" + "\n".join(
                     [f"- `{reference['title']} <{reference['url']}>`_" for reference in references]
                 )
 
