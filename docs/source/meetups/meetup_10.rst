@@ -16,7 +16,8 @@ Horetu presentation
   ../speakers/speaker_18
 
 - Abstract:
-Horetu exposes ordinary Python functions as other user interfaces. When applied to a function, it automatically constructs corresponding command-line interfaces, web interfaces, configuration files, internet relay chat (IRC) bots, and Django management commands. It is a great way to set up quickly a user interface for a Python program.References:
+Horetu exposes ordinary Python functions as other user interfaces. When applied to a function, it automatically constructs corresponding command-line interfaces, web interfaces, configuration files, internet relay chat (IRC) bots, and Django management commands. It is a great way to set up quickly a user interface for a Python program.
+References:
 - `Horetu <https://pypi.python.org/pypi/horetu/>`_
 
 Python applications in production

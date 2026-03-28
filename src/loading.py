@@ -5,7 +5,7 @@ from src.const import JSON_DATA_DIR, JSONType, MeetupData, SpeakerData
 
 
 def get_json_objects(type_: JSONType, *ids) -> List:
-    with open(f"{JSON_DATA_DIR}/{type_}.json", "r") as file:
+    with open(f"{JSON_DATA_DIR}/{type_.value}.json", "r") as file:
         data = json.load(file)
 
     if len(ids) == 0:
