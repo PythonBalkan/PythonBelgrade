@@ -742,5 +742,23 @@
     "github": "https://github.com/luchanos",
     "photo": "../_static/img/speakers/nikolai-sviridov.jpg",
     "id": 65
+  },
+  {
+    "id": 66,
+    "name": "Snežana Jovičić",
+    "linkedin": "https://www.linkedin.com/in/snežana-jovičić-molecules",
+    "description": "PhD Researcher in Genetics",
+    "contact_info": {},
+    "github": null,
+    "photo": null
+  },
+  {
+    "id": 67,
+    "name": "Strahinja Stevanović",
+    "linkedin": "https://www.linkedin.com/in/strahinjastevanovic",
+    "description": "PhD, Persida Inc.",
+    "contact_info": {},
+    "github": null,
+    "photo": null
   }
 ]
