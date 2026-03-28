@@ -13,10 +13,11 @@ Kratka uvodna prica o iPythonu
 ---
 
 .. toctree::
-
+  ../speakers/speaker_65
 
 - Abstract:
-U periodu od 15 minuta, Stefan ce pokrenuti Jupyter Notebook-a i, kroz poredjenje obicnog Python interaktivnog shell-a sa Jupyter-ovim, pokusace da nagovesti prednosti i mane ove web aplikacije.References:
+U periodu od 15 minuta, Stefan ce pokrenuti Jupyter Notebook-a i, kroz poredjenje obicnog Python interaktivnog shell-a sa Jupyter-ovim, pokusace da nagovesti prednosti i mane ove web aplikacije.
+References:
 - `JuPyter <http://jupyter.org/>`_
 
 Spark Python API
@@ -28,7 +29,8 @@ Spark Python API
 - Abstract:
 PySpark nudi Python-u pristup Spark-ovom programming modelu, i pomaze da se na brz i efikasan nacin isprocesuiraju velike kolicine podataka.
 
-Milos ce nam za kratak vremenski period pruziti uvid u jedan od najpopularnijih data alata i data tehnologija prosle godine. Procice kroz neke od core API funkcionalnosti i iznece pozitivne i negativne strane koriscenja PySpark aplikacije za resavanje problema skladistenja masivnih kolicina podataka.References:
+Milos ce nam za kratak vremenski period pruziti uvid u jedan od najpopularnijih data alata i data tehnologija prosle godine. Procice kroz neke od core API funkcionalnosti i iznece pozitivne i negativne strane koriscenja PySpark aplikacije za resavanje problema skladistenja masivnih kolicina podataka.
+References:
 - `Spark <https://spark.apache.org/>`_
 
 Manipulacija podataka sa Pandas bibliotekom
@@ -40,6 +42,7 @@ Manipulacija podataka sa Pandas bibliotekom
 - Abstract:
 Zarko ce u periodu od 15 minuta probati da nam kroz live coding sesiju na konkretnom data setu prikaže kako može izgledati analiza podataka pomoću Pandas biblioteke.
 
-Biće demonstriran delić mogućnosti biblioteke kako bi vam zagolicali mastu i skrenuli paznju na velike mogucnosti Python-a za manipulaciju raznih tipova datasetova.References:
+Biće demonstriran delić mogućnosti biblioteke kako bi vam zagolicali mastu i skrenuli paznju na velike mogucnosti Python-a za manipulaciju raznih tipova datasetova.
+References:
 - `Pandas <https://pandas.pydata.org/>`_
 

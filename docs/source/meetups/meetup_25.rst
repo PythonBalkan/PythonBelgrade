@@ -30,7 +30,8 @@ Narrenschiff: More than a satire, a tool!
 - Abstract:
 Do you need to encrypt Kubernetes secrets and safely commit manifests and custom Helm charts? Do you need to rebuild a cluster, or to have another copy of an existing namespace - but you don't remember how you did it in the first place? Narrenschiff is a Kubernetes configuration management tool for small business.
 
-It's also a story of a DevOps engineer's frustration with tool fatigue - and then taking it a step further.References:
+It's also a story of a DevOps engineer's frustration with tool fatigue - and then taking it a step further.
+References:
 - `NarrenOrg <https://github.com/narrenorg>`_
 - `Narrenschiff <https://narrenschiff.xyz>`_
 

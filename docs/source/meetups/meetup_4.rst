@@ -34,7 +34,8 @@ BigML
   ../speakers/speaker_62
 
 - Abstract:
-BigML makes machine learning easy by taking care of the details required to add data-driven decisions and predictive power to your company. Ondrej will give us a crash course on how to get us quickly up and running with this cloud machine learning platform.References:
+BigML makes machine learning easy by taking care of the details required to add data-driven decisions and predictive power to your company. Ondrej will give us a crash course on how to get us quickly up and running with this cloud machine learning platform.
+References:
 - `BigML <bigml.com>`_
 
 Python OCR

@@ -25,6 +25,7 @@ Procedural generation in Python
   ../speakers/speaker_35
 
 - Abstract:
-A short introduction to the basics of procedural generation, followed by a demonstration of how to generate terrain using noise functions and how to generate fractal art in python.References:
+A short introduction to the basics of procedural generation, followed by a demonstration of how to generate terrain using noise functions and how to generate fractal art in python.
+References:
 - `WorldEngine - a world generator <https://github.com/Mindwerks/worldengine>`_
 
