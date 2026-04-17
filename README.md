@@ -1,4 +1,5 @@
 # data located at docs/source/json-data
+- docs/source/json-data/articles.json
 - docs/source/json-data/meetups.json
 - docs/source/json-data/speakers.json
 
