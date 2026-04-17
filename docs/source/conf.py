@@ -21,7 +21,7 @@ from sphinx.application import Sphinx
 # -- Project information -----------------------------------------------------
 
 project = "Python Belgrade"
-copyright = "2024, Python Belgrade"
+copyright = "2026, Python Belgrade"
 author = "Python Belgrade"
 
 
@@ -69,9 +69,13 @@ with open("json-data/meetups.json") as file:
 with open("json-data/speakers.json") as file:
     speakers = json.load(file)
 
+with open("json-data/articles.json") as file:
+    articles = json.load(file)
+
 html_context = {
     "meetups": meetups,
     "speakers": speakers,
+    "articles": articles,
 }
 
 if os.environ.get("READTHEDOCS", "") == "True":
@@ -97,6 +101,10 @@ html_theme_options = {
         {
             "title": "Sponsorship",
             "url": "sponsorship/index",
+        },
+        {
+            "title": "Articles",
+            "url": "articles/index",
         },
         {
             "title": "Social",
