@@ -12,8 +12,9 @@ Links to past years' archives can be found at the bottom of the page.
 {% for article in articles["2026"] %}
 
 {% set heading = "`" + article.title + " ↗ <" + article.url + ">`_" %}
-- .. rubric:: {{ heading }}                                                                 
-  {{ '-' * heading|length }}                                                    
+- .. rubric:: {{ heading }}
+
+  
   by `{{ article.author }} ↗ <{{ article.authorUrl }}>`_
 
   .. image:: {{ article.image }}
