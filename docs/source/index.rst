@@ -74,6 +74,7 @@ Only reason why you may want to bring a laptop would be if you are planning to g
 
    meetups/index
    speakers/index
+   articles/index
 
 .. toctree::
    :maxdepth: 2

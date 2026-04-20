@@ -1,0 +1,16 @@
+{
+  "2026": [
+    {
+      "id": 1,
+      "title": "Writing agentic systems in Python",
+      "description": "From Python as a non-negotiable foundation all the way to an entire agentic system, this straightforward guide charts out a roadmap for getting hands on experience as an AI first Python engineer.",
+      "url": "https://dev.to/klement_gunndu/the-ai-engineering-stack-in-2026-what-to-learn-first-1nhj",
+      "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1709547228697-fa1f424a3f39%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DM3w4ODA4ODZ8MHwxfHNlYXJjaHwxfHxwcm9ncmFtbWluZyUyMGNhcmVlciUyMGxlYXJuaW5nfGVufDB8MHx8fDE3NzM0OTE1Nzh8MA%26ixlib%3Drb-4.1.0%26q%3D80%26w%3D1080",
+      "author": "Klement Gunndu",
+      "authorUrl": "https://www.linkedin.com/in/klement-gunndu-601872351/"
+    }
+  ],
+  "archives": {
+    "2026": []
+  }
+}
