@@ -24,3 +24,12 @@ Links to past years' archives can be found at the bottom of the page.
 
 
 {% endfor %}
+
+{% if articles.get("archives", {}) %}
+----
+
+{% for year in articles["archives"] %}
+- `{{ year }} <{{ year }}.html>`_ 
+{% endfor %}
+
+{% endif %}
