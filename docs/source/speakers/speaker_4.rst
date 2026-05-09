@@ -1,7 +1,6 @@
-Alexander Hendorf
+Alexander C.S. Hendorf
 =================
-Head of Data & AI @ KÖNIGSWEG 📍 Python Software Foundation Fellow 📍 PyData 📍 Python SV Chair
-
+AI Advisor | Boardroom to Code | Pioneers Hub (non-profit) · PSF Fellow · German AI Association
 
 
 - :icon:`fa-brands fa-linkedin-in` `linkedin <https://linkedin.com/in/hendorf/>`_
