@@ -1,6 +1,15 @@
 {
   "2026": [
     {
+      "id": 3,
+      "title": "Quick primer on the official AWS Python library for building agentic systems",
+      "description": "Ever build an agentic or workflow system, put it in production, only for it to become outdated 3 months later? Or 3 hours later when the workflow itself changes? Or the system needs to be refactored to support newer better and more capable models? Given that change is the only constant, tooling for building an agentic system that's highly adaptable to change is something you'd want in your toolbox. And getting started should take you about 10 minutes or so!",
+      "url": "https://dev.to/aws/ai-agents-dont-need-complex-workflows-build-one-in-python-in-10-minutes-2m5d",
+      "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1onrag8alufqtvggzeti.jpg",
+      "author": "Morgan Willis",
+      "authorUrl": "https://www.linkedin.com/in/morganwilliscloud/"
+    },
+    {
       "id": 2,
       "title": "AsyncIO cruft and reinvention (with Rust)",
       "description": "Now that the GIL (global interpreter lock) is out of the way, running an AsyncIO workload in free-threaded Python becomes a complex ordeal. Additionally, all of the consequences of GIL-first design become baggage. An experimental Rust-backed async multi-threaded runtime called TonIO (a nod to Rust's own Tokio async runtime) tries to solve post-GIL Python concurrency while keeping mental overhead minimal.",
